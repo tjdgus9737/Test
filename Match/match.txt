@@ -1,0 +1,1516 @@
+NR_038002	intergenic	416	RefSeq	+	lncRNA	93	68	LOC101928327	2.00E-30
+NR_033583	intergenic	809	RefSeq	-					
+AK005929	exonic antisense	572	Genbank	+	lncRNA	36	68	UBOX5-AS1	4.00E-06
+NR_003953	intergenic	1448	RefSeq	+	mRNA	76	79	GPD1L	0
+NR_028107	exonic antisense	753	RefSeq	+	mRNA	37	81	KCNMB4	6.00E-68
+uc008vyo.1	intronic antisense	1084	UCSC_knowngene	-					
+NR_102286	intergenic	597	RefSeq	-					
+AK018981	intergenic	788	Genbank	-					
+ENSMUST00000135865	exonic sense	628	Ensembl	+	mRNA	92	76	C17orf107	9.00E-97
+uc009dqq.1	intergenic	243	UCSC_knowngene	-					
+ENSMUST00000131403	intergenic	1011	Ensembl	-					
+ENSMUST00000130939	exonic sense	567	Ensembl	+	ncRNA	54	73	ADAM5	2.00E-42
+NR_027704	exonic sense	2968	RefSeq	+	ncRNA	27	66	SVIP	2.00E-48
+ENSMUST00000132787	exonic sense	385	Ensembl	-					
+NR_040424	intergenic	636	RefSeq	-					
+ENSMUST00000086914	intergenic	2121	Ensembl	-					
+uc007qnl.2	intergenic	2301	UCSC_knowngene	-					
+uc029xya.1	intergenic	1628	UCSC_knowngene	-					
+AK018904	exonic antisense	433	Genbank	+	ncRNA	37	79	CYP4F2P	2.00E-30
+ENSMUST00000136906	intergenic	863	Ensembl	+	mRNA	61	71	C6orf229	2.00E-59
+NR_015571	intronic antisense	669	RefSeq	-					
+NR_015547	intergenic	914	RefSeq	-					
+NR_033788	intergenic	798	RefSeq	-					
+NR_045045	intergenic	339	RefSeq	-					
+ENSMUST00000156384	exonic sense	920	Ensembl	+	mRNA	33	83	CYLC2	6.00E-86
+ENSMUST00000180633	intergenic	677	Ensembl	-					
+uc007xmk.2	intergenic	821	UCSC_knowngene	+	mRNA	26	77	C12orf54	7.00E-38
+uc008wlp.1	intergenic	786	UCSC_knowngene	-					
+NR_038180	intergenic	883	RefSeq	-					
+ENSMUST00000138232	exonic sense	301	Ensembl	+	ncRNA	42	73	ADAM18	4.00E-11
+NR_015496	intergenic	852	RefSeq	+	mRNA	25	78	C12orf54	1.00E-43
+NR_040326	intergenic	476	RefSeq	-					
+AK006981	intronic antisense	438	Genbank	-					
+uc007mef.1	intergenic	384	UCSC_knowngene	-					
+uc007xml.1	intergenic	547	UCSC_knowngene	+	mRNA	19	83	C12orf54	5.00E-21
+AK018896	exonic antisense	367	Genbank	+	lncRNA	48	76	ADIPOQ-AS1	4.00E-26
+ENSMUST00000155432	intergenic	630	Ensembl	-					
+NR_001581	intergenic	979	RefSeq	-					
+ENSMUST00000162829	exonic antisense	435	Ensembl	+	mRNA	43	79	R3HCC1L	4.00E-37
+NR_040512	exonic antisense	376	RefSeq	+	mRNA	53	89	CADM2	9.00E-34
+ENSMUST00000171020	intergenic	1096	Ensembl	+	ncRNA	30	68	SERPINA2	6.00E-22
+ENSMUST00000181441	intronic sense	785	Ensembl	-					
+uc009qzg.1	intergenic	785	UCSC_knowngene	-					
+uc009lrk.1	intergenic	459	UCSC_knowngene	-					
+uc007hha.1	intronic antisense	550	UCSC_knowngene	-					
+AK005964	intergenic	793	Genbank	-					
+NR_040543	intergenic	691	RefSeq	-					
+uc007fbl.2	exonic sense	236	UCSC_knowngene	+	mRNA	69	94	CEP85L	6.00E-65
+uc008ods.1	intergenic	342	UCSC_knowngene	-					
+ENSMUST00000135883	bidirectional	748	Ensembl	-					
+uc007sdi.1	intergenic	715	UCSC_knowngene	-					
+AK016713	intergenic	1137	Genbank	-					
+uc009liy.1	intergenic	2313	UCSC_knowngene	-					
+uc009ewr.1	intergenic	274	UCSC_knowngene	-					
+NR_003596	intergenic	1072	RefSeq	-					
+NR_003648	intergenic	1554	RefSeq	+	mRNA	72	73	TSPAN7	0
+ENSMUST00000124874	exonic sense	1313	Ensembl	+	mRNA	57	87	PPP1R42	0
+uc007sed.1	intergenic	714	UCSC_knowngene	-					
+uc009dqr.1	intergenic	396	UCSC_knowngene	-					
+ENSMUST00000161447	exonic antisense	682	Ensembl	+	ncRNA	16	92	ALDH1L1	2.00E-35
+uc029xtk.1	intergenic	389	UCSC_knowngene	-					
+ENSMUST00000141488	intergenic	416	Ensembl	-					
+ENSMUST00000181690	intergenic	673	Ensembl	-					
+uc029xst.1	intergenic	730	UCSC_knowngene	-					
+uc008tgd.1	exonic antisense	1104	UCSC_knowngene	-					
+NR_038141	intergenic	947	RefSeq	-					
+AK018927	exonic antisense	572	Genbank	+	mRNA	27	89	ACTR1A	2.00E-49
+AK076598	intergenic	2596	Genbank	-					
+NR_037991	intergenic	2339	RefSeq	-					
+ENSMUST00000127246	intronic antisense	1107	Ensembl	+	mRNA	99	76	ISG20L2	0
+NR_040755	intergenic	781	RefSeq	-					
+uc007sdh.1	intergenic	1144	UCSC_knowngene	+	mRNA	17	74	DGKH	9.00E-27
+uc007fkm.1	intergenic	810	UCSC_knowngene	-					
+AK029886	intergenic	6223	Genbank	-					
+uc008dvj.1	intergenic	352	UCSC_knowngene	-					
+uc008jor.1	intergenic	500	UCSC_knowngene	-					
+ENSMUST00000134911	intronic antisense	581	Ensembl	-					
+ENSMUST00000153051	exonic antisense	917	Ensembl	+	mRNA	7	96	OVOL2	6.00E-23
+ENSMUST00000132536	exonic sense	476	Ensembl	-					
+NR_033786	intergenic	377	RefSeq	-					
+uc009pqw.1	intergenic	598	UCSC_knowngene	-					
+uc011xav.2	intergenic	539	UCSC_knowngene	-					
+AK007128	intergenic	808	Genbank	-					
+uc007srg.1	intergenic	370	UCSC_knowngene	-					
+ENSMUST00000169209	intergenic	270	Ensembl	-					
+ENSMUST00000094270	intergenic	543	Ensembl	-					
+NR_027848	intergenic	720	RefSeq	-					
+ENSMUST00000166202	intergenic	434	Ensembl	-					
+ENSMUST00000142947	exonic sense	435	Ensembl	+	mRNA	98	77	NFATC2IP	1.00E-50
+uc007xcp.1	intergenic	365	UCSC_knowngene	-					
+NR_045960	intergenic	806	RefSeq	-					
+uc007qbk.1	bidirectional	1091	UCSC_knowngene	-					
+NR_037989	intergenic	886	RefSeq	-					
+NR_001586	intergenic	1107	RefSeq	-					
+ENSMUST00000181944	exonic sense	1992	Ensembl	+	ncRNA	3	86	SLC7A5P2	4.00E-11
+uc007zsu.1	intergenic	2208	UCSC_knowngene	-					
+ENSMUST00000138447	intergenic	1482	Ensembl	-					
+NR_038189	intronic antisense	483	RefSeq	-					
+NR_045376	exonic antisense	580	RefSeq	-					
+ENSMUST00000133489	bidirectional	606	Ensembl	-					
+ENSMUST00000126236	exonic sense	484	Ensembl	+	mRNA	76	80	ZPBP2	1.00E-86
+NR_045487	intergenic	482	RefSeq	-					
+ENSMUST00000141580	intergenic	653	Ensembl	-					
+NR_027801	intergenic	2148	RefSeq	-					
+ENSMUST00000146398	intergenic	569	Ensembl	+	lncRNA	18	74	LOC643406	9.00E-07
+AK131802	exonic antisense	400	Genbank	+	mRNA	82	74	OR14J1	9.00E-53
+AK019708	intergenic	422	Genbank	-					
+ENSMUST00000130184	exonic antisense	892	Ensembl	+	mRNA	32	86	GBF1	3.00E-89
+uc029ygt.1	intergenic	748	UCSC_knowngene	-					
+ENSMUST00000122154	intergenic	380	Ensembl	-					
+NR_026924	intergenic	547	RefSeq	-					
+uc007pzm.1	intergenic	594	UCSC_knowngene	-					
+NR_045288	intergenic	645	RefSeq	-					
+uc007gzr.2	intergenic	677	UCSC_knowngene	-					
+ENSMUST00000170318	exonic sense	2606	Ensembl	+	ncRNA	60	72	ADAM3A	0
+uc007uzm.1	exonic antisense	2809	UCSC_knowngene	+	mRNA	10	71	UGGT2	3.00E-39
+uc007uqj.1	intronic antisense	388	UCSC_knowngene	-					
+ENSMUST00000168135	intergenic	456	Ensembl	-					
+NR_038127	intronic antisense	591	RefSeq	-					
+uc029xtr.1	intergenic	255	UCSC_knowngene	-					
+NR_040542	intergenic	539	RefSeq	-					
+ENSMUST00000154515	intronic antisense	487	Ensembl	-					
+mouselincRNA1042+	intergenic	7362	lincRNA	-					
+ENSMUST00000151344	intergenic	1939	Ensembl	-					
+ENSMUST00000171278	intronic antisense	392	Ensembl	-					
+NR_033307	intronic antisense	987	RefSeq	-					
+NR_040500	intergenic	434	RefSeq	-					
+uc007nnq.1	intronic antisense	704	UCSC_knowngene	-					
+NR_038039	intergenic	345	RefSeq	-					
+ENSMUST00000150842	exonic sense	562	Ensembl	-					
+AK161360	exonic antisense	1242	Genbank	+	mRNA	12	81	HMX1	5.00E-37
+AK005812	exonic antisense	889	Genbank	-					
+NR_027909	intergenic	2834	RefSeq	-					
+uc008rtv.1	intergenic	828	UCSC_knowngene	-					
+uc007hen.1	intronic antisense	1189	UCSC_knowngene	-					
+ENSMUST00000123390	exonic antisense	761	Ensembl	+	mRNA	35	88	DNAAF3	2.00E-34
+AK005751	intronic antisense	692	Genbank	-					
+ENSMUST00000176338	intergenic	485	Ensembl	-					
+ENSMUST00000167608	exonic sense	991	Ensembl	+	ncRNA	33	76	FAM71F1	5.00E-36
+uc008qtk.1	exonic antisense	1250	UCSC_knowngene	+	mRNA	31	81	HIPK2	3.00E-34
+uc009lrj.1	intergenic	564	UCSC_knowngene	-					
+ENSMUST00000167690	intergenic	452	Ensembl	-					
+AK005752	intronic antisense	607	Genbank	-					
+NR_027945	intronic antisense	876	RefSeq	-					
+ENSMUST00000117378	intergenic	596	Ensembl	-					
+uc011wjp.1	intergenic	1305	UCSC_knowngene	+	mRNA	61	84	VWA3B	0
+NR_040264	intergenic	658	RefSeq	+	mRNA	28	79	SMKR1	3.00E-34
+ENSMUST00000141004	exonic antisense	607	Ensembl	+	mRNA	32	86	DUSP13	3.00E-57
+AK076878	intergenic	1040	Genbank	-					
+ENSMUST00000181571	intergenic	234	Ensembl	-					
+AK131806	intergenic	459	Genbank	-					
+AK015031	intergenic	459	Genbank	-					
+AK076904	intronic antisense	795	Genbank	-					
+ENSMUST00000124404	intergenic	1252	Ensembl	+	mRNA	82	81	VWA3B	0
+NR_040728	exonic antisense	708	RefSeq	+	mRNA	16	94	GRAMD1B	6.00E-42
+ENSMUST00000141678	intergenic	537	Ensembl	-					
+ENSMUST00000137742	exonic sense	2752	Ensembl	+	lncRNA	2	92	LOC105372440	2.00E-14
+AK016793	intergenic	1048	Genbank	-					
+ENSMUST00000118249	intergenic	203	Ensembl	-					
+AK006751	exonic antisense	299	Genbank	+	mRNA	24	86	DAD1	3.00E-15
+uc011xis.1	exonic sense	3911	UCSC_knowngene	+	ncRNA	50	78	ATP8B3	0
+uc007dit.1	intergenic	356	UCSC_knowngene	-					
+AY940663	intergenic	840	Genbank	-					
+BC048001	exonic antisense	525	Genbank	+	mRNA	93	82	TMEM200A	4.00E-133
+uc029xxz.1	intergenic	428	UCSC_knowngene	-					
+AK016357	exonic antisense	807	Genbank	+	ncRNA	33	81	LGR5	1.00E-64
+NR_040531	bidirectional	697	RefSeq	-					
+ENSMUST00000160381	exonic sense	652	Ensembl	-					
+NR_040592	intergenic	985	RefSeq	-					
+NR_027915	intergenic	543	RefSeq	-					
+AK131779	exonic antisense	775	Genbank	+	mRNA	15	89	VPS53	6.00E-36
+AK005742	exonic antisense	1250	Genbank	+	mRNA	49	87	NCAN	2.00E-98
+ENSMUST00000121947	intergenic	340	Ensembl	-					
+ENSMUST00000155224	intergenic	1069	Ensembl	-					
+uc007uuc.1	exonic sense	317	UCSC_knowngene	+	mRNA	57	92	DIAPH3	6.00E-69
+ENSMUST00000128602	intergenic	1721	Ensembl	-					
+NR_040573	intergenic	1129	RefSeq	-					
+ENSMUST00000135792	intergenic	424	Ensembl	-					
+NR_045446	intergenic	1693	RefSeq	-					
+AK016507	intronic antisense	2957	Genbank	-					
+BC049722	intergenic	816	lincRNA	-					
+ENSMUST00000156106	exonic sense	353	Ensembl	+	mRNA	35	79	CCDC91	7.00E-21
+ENSMUST00000177262	intronic antisense	716	Ensembl	-					
+AK015852	exonic antisense	851	Genbank	-					
+ENSMUST00000171867	intergenic	537	Ensembl	-					
+uc009kaz.1	bidirectional	684	UCSC_knowngene	-					
+AK015485	intergenic	1265	Genbank	-					
+ENSMUST00000130673	exonic antisense	529	Ensembl	+	mRNA	51	86	ACE	1.00E-51
+ENSMUST00000123508	intergenic	1150	Ensembl	-					
+ENSMUST00000137164	exonic sense	472	Ensembl	+	mRNA	99	79	CCDC67	4.00E-109
+ENSMUST00000132214	exonic sense	2222	Ensembl	+	mRNA	62	76	CCDC38	0
+ENSMUST00000177166	intergenic	730	Ensembl	-					
+ENSMUST00000137546	intergenic	677	Ensembl	-					
+NR_045734	exonic antisense	786	RefSeq	-					
+AK007066	intronic antisense	555	Genbank	-					
+NR_040570	intergenic	758	RefSeq	-					
+uc012bae.1	exonic sense	3028	UCSC_knowngene	-					
+NR_040684	intronic antisense	990	RefSeq	-					
+uc009ckg.1	intergenic	223	UCSC_knowngene	-					
+NR_038003	intergenic	498	RefSeq	-					
+AK076854	intronic antisense	1051	Genbank	-					
+ENSMUST00000161709	intergenic	616	Ensembl	-					
+ENSMUST00000159244	intergenic	791	Ensembl	-					
+NR_027986	intronic antisense	613	RefSeq	-					
+ENSMUST00000154592	intergenic	280	Ensembl	-					
+BU962284	intergenic	677	lincRNA	-					
+NR_027849	intergenic	586	RefSeq	-					
+ENSMUST00000138253	exonic antisense	895	Ensembl	+	mRNA	8	90	FAR1	1.00E-20
+NR_040747	intergenic	1466	RefSeq	+	mRNA	22	89	SEH1L	9.00E-40
+ENSMUST00000119494	intergenic	1788	Ensembl	+	mRNA	98	85	PLK1	0
+ENSMUST00000171723	exonic antisense	951	Ensembl	+	mRNA	7	86	EPHX4	3.00E-13
+ENSMUST00000176225	exonic sense	2773	Ensembl	-					
+AK132862	intergenic	1909	Genbank	-					
+ENSMUST00000150149	intergenic	444	Ensembl	+	mRNA	51	69	CEACAM6	6.00E-12
+NR_046050	intergenic	884	RefSeq	-					
+ENSMUST00000171483	exonic antisense	324	Ensembl	+	mRNA	54	89	UBR1	1.00E-57
+ENSMUST00000180397	bidirectional	522	Ensembl	-					
+ENSMUST00000148657	bidirectional	209	Ensembl	-					
+AK076868	exonic antisense	393	Genbank	-					
+ENSMUST00000062252	exonic antisense	883	Ensembl	+	mRNA	42	81	BTF3	3.00E-94
+ENSMUST00000152867	exonic antisense	569	Ensembl	+	mRNA	81	96	HIPK1	1.00E-63
+ENSMUST00000140451	intronic antisense	252	Ensembl	-					
+AK019705	intronic antisense	234	Genbank	-					
+ENSMUST00000132616	intergenic	490	Ensembl	-					
+uc008mqa.1	intergenic	495	UCSC_knowngene	-					
+AK007229	intergenic	705	Genbank	-					
+ENSMUST00000141405	intergenic	284	Ensembl	-					
+ENSMUST00000133400	intronic sense	795	Ensembl	-					
+ENSMUST00000131707	intronic antisense	622	Ensembl	-					
+AK016005	intergenic	461	Genbank	-					
+ENSMUST00000160091	exonic antisense	2629	Ensembl	+	mRNA	5	89	HMGA2	3.00E-44
+AK075767	exonic antisense	215	Genbank	+	mRNA	57	94	LRP5	4.00E-45
+ENSMUST00000067387	exonic sense	1552	Ensembl	+	mRNA	88	78	LEXM	0
+uc009idi.1	bidirectional	713	UCSC_knowngene	-					
+ENSMUST00000117443	intergenic	2037	Ensembl	+	mRNA	46	64	HDLBP	5.00E-41
+uc008zgr.1	intergenic	605	UCSC_knowngene	-					
+AK005648	intergenic	421	Genbank	-					
+ENSMUST00000153818	intergenic	734	Ensembl	-					
+ENSMUST00000126219	intronic antisense	4595	Ensembl	-					
+uc011ynn.1	exonic sense	552	UCSC_knowngene	+	mRNA	72	77	TOMM20L	2.00E-71
+ENSMUST00000129275	exonic antisense	507	Ensembl	+	mRNA	15	96	USP12	9.00E-26
+NR_036630	intergenic	2668	RefSeq	+	lncRNA	31	74	LINC01529	1.00E-51
+TCONS_00015032	intergenic	498	Alexander et al 2013	-					
+AK018882	intronic antisense	266	Genbank	-					
+ENSMUST00000159904	exonic sense	830	Ensembl	+	mRNA	92	72	CCDC169	1.00E-114
+ENSMUST00000136196	exonic antisense	566	Ensembl	+	mRNA	27	94	KCNAB3	5.00E-10
+ENSMUST00000145257	exonic sense	774	Ensembl	+	mRNA	94	77	MORN3	1.00E-101
+ENSMUST00000181772	intergenic	2085	Ensembl	-					
+ENSMUST00000180462	intergenic	1293	Ensembl	-					
+uc029ygs.1	intergenic	581	UCSC_knowngene	-					
+AK006042	exonic antisense	569	Genbank	+	mRNA	49	87	IGSF3	2.00E-92
+NR_045378	intergenic	558	RefSeq	-					
+uc009rdf.1	intronic antisense	1392	UCSC_knowngene	-					
+ENSMUST00000160203	intergenic	738	Ensembl	-					
+AK016653	intergenic	1059	Genbank	-					
+ENSMUST00000160992	exonic antisense	614	Ensembl	-					
+NR_045340	intergenic	596	RefSeq	-					
+AK133413	bidirectional	1085	Genbank	-					
+uc009mmp.1	exonic antisense	537	UCSC_knowngene	+	mRNA	36	91	CACNA1A	5.00E-69
+AK131672	exonic antisense	899	Genbank	+	mRNA	33	82	CYTH2	1.00E-75
+BC048639	exonic antisense	722	Genbank	+	mRNA	88	77	CRYBG3	3.00E-135
+AK016288	intergenic	705	Genbank	-					
+AK007286	exonic antisense	528	Genbank	+	mRNA	25	81	BCO2	4.00E-26
+AK005995	intronic antisense	589	Genbank	-					
+ENSMUST00000125425	exonic sense	943	Ensembl	-					
+uc007qcb.1	intergenic	364	UCSC_knowngene	-					
+AK006735	intergenic	290	Genbank	-					
+ENSMUST00000118897	intergenic	631	Ensembl	-					
+uc007hcv.1	intergenic	537	UCSC_knowngene	-					
+uc008bkf.2	intergenic	747	UCSC_knowngene	-					
+AK015328	intronic antisense	2129	Genbank	-					
+ENSMUST00000130025	intergenic	318	Ensembl	-					
+AK019859	intergenic	1085	Genbank	-					
+uc008gys.1	intergenic	587	UCSC_knowngene	-					
+NR_028286	intergenic	847	RefSeq	+	lncRNA	12	74	LOC643406	4.00E-07
+NR_037999	bidirectional	2052	RefSeq	-					
+ENSMUST00000147795	intergenic	421	Ensembl	+	mRNA	19	91	SGK494	5.00E-22
+uc029xua.1	intergenic	368	UCSC_knowngene	-					
+ENSMUST00000123894	intronic antisense	1750	Ensembl	-					
+ENSMUST00000169661	intergenic	476	Ensembl	-					
+ENSMUST00000134389	exonic sense	731	Ensembl	-					
+ENSMUST00000123628	exonic sense	587	Ensembl	+	mRNA	89	78	TCP11	1.00E-112
+NR_033216	intergenic	704	RefSeq	-					
+ENSMUST00000176454	exonic sense	1853	Ensembl	+	mRNA	49	91	IP6K1	0
+AK015106	exonic antisense	743	Genbank	+	mRNA	60	75	GGA1	4.00E-76
+NR_045809	intergenic	735	RefSeq	-					
+uc029xyd.1	intergenic	422	UCSC_knowngene	-					
+uc007vkw.1	intergenic	436	UCSC_knowngene	-					
+uc008zlk.1	intergenic	275	UCSC_knowngene	-					
+ENSMUST00000152130	exonic sense	416	Ensembl	+	mRNA	33	88	PBK	9.00E-41
+NR_045804	intergenic	1676	RefSeq	-					
+NR_073205	intergenic	3063	RefSeq	-					
+ENSMUST00000141275	intergenic	700	Ensembl	-					
+AK015775	exonic antisense	666	Genbank	+	mRNA	31	81	BTBD2	7.00E-48
+ENSMUST00000147359	intronic antisense	635	Ensembl	-					
+uc007jkg.2	exonic sense	3230	UCSC_knowngene	+	ncRNA	72	78	FBXW10	0
+AK005916	intergenic	471	Genbank	-					
+NR_040630	bidirectional	574	RefSeq	-					
+ENSMUST00000132218	intergenic	568	Ensembl	-					
+AK006483	intergenic	498	Genbank	-					
+NR_045342	intergenic	1704	RefSeq	-					
+NR_045371	intergenic	931	RefSeq	-					
+ENSMUST00000141892	intergenic	701	Ensembl	-					
+AK015071	intergenic	716	Genbank	-					
+AK006078	exonic antisense	399	Genbank	-					
+AK133125	bidirectional	1418	Genbank	-					
+TCONS_00010827	intergenic	1596	Alexander et al 2013	-					
+ENSMUST00000135313	bidirectional	1638	Ensembl	-					
+ENSMUST00000181426	intergenic	519	Ensembl	-					
+AK015851	exonic antisense	946	Genbank	+	mRNA	47	90	TIAM1	1.00E-172
+NR_045913	exonic antisense	945	RefSeq	+	mRNA	16	82	FRS3	3.00E-34
+uc007pbz.1	bidirectional	1653	UCSC_knowngene	-					
+ENSMUST00000159562	intergenic	756	Ensembl	-					
+ENSMUST00000147937	exonic antisense	1516	Ensembl	+	mRNA	11	78	SLC13A5	5.00E-29
+ENSMUST00000173709	intergenic	919	Ensembl	+	mRNA	80	73	SENP2	1.00E-119
+uc009orc.1	bidirectional	636	UCSC_knowngene	-					
+uc007zre.1	intergenic	1043	UCSC_knowngene	-					
+AK015033	exonic antisense	1883	Genbank	+	mRNA	15	76	HSPA9	7.00E-48
+ENSMUST00000125656	exonic sense	757	Ensembl	+	ncRNA	48	74	CXorf65	2.00E-59
+ENSMUST00000135698	exonic sense	587	Ensembl	+	mRNA	84	91	FAM229A	2.00E-159
+uc008sub.2	exonic sense	3883	UCSC_knowngene	+	mRNA	63	85	CORO2A	0
+uc007kit.1	bidirectional	2338	UCSC_knowngene	+	mRNA	7	90	SGK494	3.00E-25
+uc008vke.1	intronic antisense	737	UCSC_knowngene	-					
+ENSMUST00000129141	exonic sense	1560	Ensembl	-					
+ENSMUST00000097355	intronic sense	1138	Ensembl	-					
+uc029vff.1	intergenic	425	UCSC_knowngene	-					
+NR_040471	intergenic	603	RefSeq	-					
+ENSMUST00000153949	exonic sense	528	Ensembl	+	mRNA	73	85	VPS36	4.00E-119
+AK014962	bidirectional	1377	Genbank	-					
+NR_102387	exonic sense	2563	RefSeq	+	mRNA	68	91	GRIP1	0
+ENSMUST00000136014	exonic antisense	961	Ensembl	-					
+ENSMUST00000132871	intronic antisense	582	Ensembl	-					
+ENSMUST00000143523	exonic sense	3281	Ensembl	+	mRNA	11	87	DSCC1	3.00E-73
+ENSMUST00000167579	intergenic	451	Ensembl	-					
+NR_046192	bidirectional	865	RefSeq	-					
+AK006910	intergenic	571	Genbank	-					
+ENSMUST00000143166	exonic sense	548	Ensembl	-					
+NR_038168	intergenic	547	RefSeq	+	lncRNA	27	71	LINC00633	7.00E-10
+uc007djs.1	exonic sense	821	UCSC_knowngene	-					
+uc008ihs.1	intronic antisense	1020	UCSC_knowngene	-					
+AK005961	intergenic	472	Genbank	-					
+AK029658	intergenic	2637	Genbank	-					
+AK131760	exonic antisense	1316	Genbank	-					
+ENSMUST00000134971	intergenic	442	Ensembl	-					
+AK016903	intergenic	1421	Genbank	-					
+uc009cea.1	intronic antisense	448	UCSC_knowngene	-					
+AK017073	intergenic	811	Genbank	-					
+NR_046043	intronic antisense	1096	RefSeq	-					
+NR_040681	intergenic	766	RefSeq	-					
+uc007gqp.1	intronic antisense	1183	UCSC_knowngene	-					
+ENSMUST00000149382	intergenic	1601	Ensembl	-					
+ENSMUST00000140826	intronic antisense	3056	Ensembl	-					
+AK007181	exonic antisense	888	Genbank	+	ncRNA	28	81	TMEM165	7.00E-61
+AK014830	exonic antisense	2949	Genbank	+	mRNA	28	79	PACSIN3	2.00E-55
+AK007034	intergenic	245	Genbank	-					
+uc009bfg.1	intergenic	498	UCSC_knowngene	-					
+ENSMUST00000181282	intergenic	547	Ensembl	-					
+ENSMUST00000161939	intergenic	702	Ensembl	-					
+AK133076	exonic antisense	1811	Genbank	+	mRNA	6	77	SERPINB9	8.00E-16
+uc008och.1	intergenic	1067	UCSC_knowngene	-					
+AK131794	exonic antisense	667	Genbank	+	mRNA	28	91	SNTB2	2.00E-68
+AK015054	intronic antisense	807	Genbank	-					
+ENSMUST00000159564	exonic sense	751	Ensembl	+	mRNA	97	90	BOLL	0
+ENSMUST00000138867	exonic antisense	915	Ensembl	+	mRNA	13	86	FBXO3	9.00E-32
+ENSMUST00000128770	exonic sense	582	Ensembl	+	mRNA	84	78	VHL	6.00E-99
+ENSMUST00000132321	intergenic	469	Ensembl	-					
+ENSMUST00000131366	exonic sense	788	Ensembl	+	mRNA	97	79	CLHC1	3.00E-109
+NR_040675	exonic antisense	1047	RefSeq	+	mRNA	28	74	MYO18B	7.00E-54
+ENSMUST00000154000	intronic antisense	317	Ensembl	-					
+ENSMUST00000142499	exonic sense	2915	Ensembl	+	mRNA	20	67	BTNL10	1.00E-43
+ENSMUST00000181192	intergenic	759	Ensembl	-					
+ENSMUST00000181649	intergenic	1294	Ensembl	-					
+AK087229	intergenic	2151	Genbank	-					
+uc007eok.1	intergenic	597	UCSC_knowngene	-					
+ENSMUST00000140465	intergenic	623	Ensembl	-					
+NR_038183	intergenic	1205	RefSeq	-					
+AK131771	intergenic	585	Genbank	-					
+uc011xap.2	intergenic	654	UCSC_knowngene	-					
+ENSMUST00000119440	intergenic	512	Ensembl	-					
+ENSMUST00000122821	intergenic	668	Ensembl	-					
+AK014914	bidirectional	1734	Genbank	-					
+ENSMUST00000161924	exonic antisense	614	Ensembl	+	mRNA	20	82	DIP2A	3.00E-25
+uc008zuz.1	intergenic	753	UCSC_knowngene	-					
+AK076843	intergenic	700	Genbank	-					
+ENSMUST00000141411	exonic sense	476	Ensembl	+	mRNA	13	86	SPATA25	1.00E-10
+AK076670	intergenic	950	Genbank	-					
+AK076740	exonic antisense	1076	Genbank	-					
+AK016287	intergenic	1070	Genbank	-					
+ENSMUST00000146974	exonic sense	1438	Ensembl	-					
+AK133433	intergenic	1648	Genbank	-					
+AK134149	exonic antisense	1461	Genbank	+	mRNA	68	84	DHH	0
+uc029sbh.1	intergenic	1183	UCSC_knowngene	-					
+ENSMUST00000134422	intergenic	1490	Ensembl	-					
+ENSMUST00000153540	exonic sense	636	Ensembl	+	mRNA	81	83	BBOF1	2.00E-80
+uc011xat.2	intergenic	3741	UCSC_knowngene	-					
+ENSMUST00000147594	exonic antisense	1236	Ensembl	+	mRNA	31	89	TRPM8	2.00E-84
+ENSMUST00000131326	exonic sense	595	Ensembl	-					
+uc029vfx.1	intronic sense	1180	UCSC_knowngene	-					
+AK030150	intergenic	3137	Genbank	-					
+ENSMUST00000165915	intergenic	474	Ensembl	-					
+ENSMUST00000181337	intergenic	1105	Ensembl	-					
+ENSMUST00000130685	exonic sense	507	Ensembl	+	mRNA	59	75	MARCH10	2.00E-48
+ENSMUST00000121507	intergenic	955	Ensembl	+	ncRNA	100	82	RNF41	1.00E-143
+NR_015494	intronic antisense	2806	RefSeq	-					
+NR_046042	bidirectional	688	RefSeq	-					
+NR_045505	intronic antisense	1491	RefSeq	-					
+AK005685	intergenic	410	Genbank	-					
+AK006259	bidirectional	1043	Genbank	-					
+AK006223	intronic antisense	342	Genbank	+	lncRNA	83	73	SORCS3-AS1	2.00E-36
+AK016211	intergenic	1044	Genbank	+	mRNA	18	82	CDC20B	2.00E-47
+uc008rtx.1	intronic sense	213	UCSC_knowngene	-					
+NR_040756	intergenic	617	RefSeq	-					
+uc009mqw.1	bidirectional	1573	UCSC_knowngene	-					
+ENSMUST00000124713	exonic sense	673	Ensembl	-					
+uc029xux.1	intergenic	621	UCSC_knowngene	-					
+uc007rys.2	intergenic	749	UCSC_knowngene	-					
+AK019638	bidirectional	423	Genbank	-					
+ENSMUST00000147742	intergenic	501	Ensembl	+	ncRNA	9	73	LOC100129291	4.00E-19
+NR_045883	exonic antisense	1096	RefSeq	+	ncRNA	13	78	NIPAL2	4.00E-25
+AK019616	intergenic	703	Genbank	-					
+AK015639	bidirectional	1370	Genbank	-					
+AK016679	exonic antisense	1182	Genbank	+	mRNA	13	88	GALNT16	4.00E-25
+uc009vfx.1	intergenic	739	UCSC_knowngene	-					
+ENSMUST00000124414	exonic sense	462	Ensembl	+	mRNA	65	90	SUN5	7.00E-111
+ENSMUST00000177890	intergenic	447	Ensembl	-					
+NR_040649	bidirectional	593	RefSeq	-					
+uc009hto.2	intergenic	470	UCSC_knowngene	-					
+AK016609	intergenic	1038	Genbank	-					
+ENSMUST00000146277	exonic sense	810	Ensembl	+	mRNA	76	88	GRM4	0
+AK077057	intergenic	3943	Genbank	-					
+AK006729	intergenic	409	Genbank	-					
+uc007ilo.1	intergenic	793	UCSC_knowngene	-					
+ENSMUST00000160088	intergenic	563	Ensembl	-					
+ENSMUST00000153332	intronic antisense	650	Ensembl	-					
+ENSMUST00000126953	intronic antisense	1005	Ensembl	-					
+ENSMUST00000160432	intronic antisense	319	Ensembl	-					
+ENSMUST00000153899	intronic antisense	765	Ensembl	-					
+ENSMUST00000162468	exonic sense	2837	Ensembl	+	mRNA	20	67	SLCO6A1	1.00E-43
+ENSMUST00000081331	intergenic	1312	Ensembl	+	ncRNA	17	68	ANKRD26P1	2.00E-08
+uc008etg.2	exonic sense	699	UCSC_knowngene	+	mRNA	76	84	KCTD16	2.00E-166
+ENSMUST00000123834	intergenic	472	Ensembl	-					
+AK131736	intergenic	1043	Genbank	-					
+ENSMUST00000152264	bidirectional	273	Ensembl	-					
+BF149588	intergenic	489	lincRNA	-					
+ENSMUST00000151398	intergenic	1587	Ensembl	-					
+NR_045613	intergenic	1098	RefSeq	-					
+AK016030	intergenic	962	Genbank	-					
+ENSMUST00000135700	intergenic	351	Ensembl	-					
+TCONS_00012100	intergenic	364	Alexander et al 2013	-					
+ENSMUST00000122131	intergenic	660	Ensembl	-					
+AK016326	intronic antisense	856	Genbank	-					
+ENSMUST00000136294	exonic antisense	1198	Ensembl	+	mRNA	68	74	TENM4	2.00E-117
+ENSMUST00000155560	exonic antisense	634	Ensembl	+	mRNA	12	86	AKR1B10	7.00E-16
+NR_045961	intronic antisense	776	RefSeq	-					
+ENSMUST00000172850	exonic sense	675	Ensembl	-					
+uc007zqw.1	intergenic	733	UCSC_knowngene	-					
+AK015494	intergenic	648	Genbank	-					
+AK007113	exonic antisense	1016	Genbank	+	mRNA	46	85	YBX1	4.00E-146
+NR_040746	intronic antisense	433	RefSeq	-					
+ENSMUST00000137606	intergenic	274	Ensembl	-					
+AK076659	bidirectional	917	Genbank	-					
+NR_045616	intergenic	648	RefSeq	-					
+uc009pet.1	exonic antisense	764	UCSC_knowngene	-					
+AK029656	intergenic	3621	Genbank	-					
+ENSMUST00000131581	bidirectional	518	Ensembl	-					
+NR_040337	exonic antisense	2620	RefSeq	+	mRNA	9	88	AP2A2	6.00E-49
+NR_033445	exonic antisense	1094	RefSeq	+	mRNA	20	76	LGSN	4.00E-38
+ENSMUST00000135145	bidirectional	427	Ensembl	-					
+uc008fuj.1	intergenic	681	UCSC_knowngene	-					
+NR_040454	intergenic	1093	RefSeq	-					
+uc008bke.2	intergenic	425	UCSC_knowngene	-					
+ENSMUST00000128263	exonic antisense	338	Ensembl	+	mRNA	21	92	ATP6V0B	1.00E-19
+ENSMUST00000123312	exonic sense	684	Ensembl	-					
+uc007xip.1	intronic antisense	884	UCSC_knowngene	-					
+ENSMUST00000150034	exonic sense	409	Ensembl	+	mRNA	20	81	C19orf81	2.00E-11
+ENSMUST00000145961	intronic antisense	617	Ensembl	-					
+NR_046274	intergenic	1548	RefSeq	+	mRNA	91	71	ZNF572	3.00E-97
+ENSMUST00000160445	exonic antisense	503	Ensembl	+	ncRNA	15	91	FNDC3A	1.00E-19
+ENSMUST00000142076	exonic antisense	526	Ensembl	-					
+ENSMUST00000119303	intergenic	543	Ensembl	+	mRNA	100	76	FANCD2OS	3.00E-103
+ENSMUST00000165949	exonic sense	1263	Ensembl	+	mRNA	97	84	CPA5	0
+uc008xlw.1	intergenic	757	UCSC_knowngene	-					
+ENSMUST00000143266	exonic antisense	2438	Ensembl	-					
+ENSMUST00000142642	intergenic	579	Ensembl	-					
+ENSMUST00000161626	intronic antisense	415	Ensembl	-					
+ENSMUST00000179575	bidirectional	575	Ensembl	-					
+uc009jnu.1	intergenic	630	UCSC_knowngene	-					
+AK016056	intergenic	909	Genbank	-					
+AK040253	intergenic	860	Genbank	-					
+ENSMUST00000137352	intergenic	996	Ensembl	-					
+NR_045975	intergenic	1136	RefSeq	-					
+NR_045353	bidirectional	723	RefSeq	-					
+ENSMUST00000119658	intergenic	1254	Ensembl	+	mRNA	58	72	PRR30	5.00E-100
+NR_040495	intergenic	712	RefSeq	-					
+ENSMUST00000163229	exonic sense	1406	Ensembl	+	ncRNA	80	84	FAM71F1	0
+uc007ztz.1	intergenic	3117	UCSC_knowngene	-					
+ENSMUST00000149037	exonic sense	3838	Ensembl	+	mRNA	62	83	AGBL2	0
+uc008xgw.1	intergenic	544	UCSC_knowngene	-					
+NR_040506	intergenic	907	RefSeq	-					
+ENSMUST00000151904	intergenic	519	Ensembl	-					
+AK053483	intergenic	4161	Genbank	-					
+uc009bhe.1	exonic antisense	2337	UCSC_knowngene	-					
+ENSMUST00000156193	intronic antisense	626	Ensembl	-					
+NR_045469	intergenic	1627	RefSeq	-					
+uc007eej.1	intergenic	246	UCSC_knowngene	-					
+ENSMUST00000181676	intergenic	1095	Ensembl	-					
+ENSMUST00000159838	intergenic	580	Ensembl	-					
+uc009ndb.2	exonic sense	1804	UCSC_knowngene	-					
+AV274366	intergenic	641	lincRNA	-					
+ENSMUST00000132967	intergenic	3932	Ensembl	+	mRNA	97	74	FSIP2	0
+ENSMUST00000160782	exonic sense	357	Ensembl	+	ncRNA	98	77	EFHC1	7.00E-73
+NR_045356	intergenic	1465	RefSeq	-					
+NR_046060	intergenic	2060	RefSeq	-					
+AK006067	intergenic	464	Genbank	-					
+NR_040688	intergenic	655	RefSeq	-					
+TCONS_00034069	intergenic	432	Alexander et al 2013	-					
+AK016132	intergenic	548	Genbank	-					
+NR_045396	intergenic	1081	RefSeq	-					
+AK029648	intronic antisense	291	Genbank	-					
+ENSMUST00000032858	exonic antisense	334	Ensembl	+	mRNA	100	91	PRSS23	4.00E-63
+uc008paw.1	intergenic	629	UCSC_knowngene	-					
+ENSMUST00000151438	intergenic	391	Ensembl	-					
+ENSMUST00000161174	intergenic	717	Ensembl	-					
+uc007eha.1	exonic sense	2525	UCSC_knowngene	+	mRNA	51	77	ARMT1	0
+AK135600	exonic antisense	805	Genbank	-					
+AK015405	intronic antisense	588	Genbank	-					
+uc008elj.1	exonic antisense	536	UCSC_knowngene	+	mRNA	66	79	CDC25C	3.00E-75
+AK017046	intronic antisense	1385	Genbank	-					
+AK014935	bidirectional	1845	Genbank	-					
+AK006624	intronic antisense	1130	Genbank	-					
+uc007vqo.1	intergenic	1631	UCSC_knowngene	-					
+AK006834	intergenic	1220	Genbank	-					
+AK052663	exonic antisense	2159	Genbank	+	mRNA	7	95	H1F0	5.00E-69
+NR_040741	bidirectional	696	RefSeq	-					
+NR_040704	intronic antisense	515	RefSeq	-					
+TCONS_00008268	intergenic	490	Alexander et al 2013	-					
+ENSMUST00000155018	intergenic	349	Ensembl	-					
+uc007vyv.1	intergenic	843	UCSC_knowngene	-					
+AK041297	intergenic	1426	Genbank	-					
+ENSMUST00000140320	intergenic	603	Ensembl	-					
+AK018915	intergenic	349	Genbank	-					
+ENSMUST00000137624	intergenic	271	Ensembl	-					
+TCONS_00015033	intergenic	373	Alexander et al 2013	-					
+ENSMUST00000137532	exonic sense	761	Ensembl	+	mRNA	82	89	C8orf88	0
+ENSMUST00000131472	exonic sense	852	Ensembl	+	mRNA	43	93	NXN	2.00E-153
+ENSMUST00000140510	intronic antisense	665	Ensembl	-					
+ENSMUST00000160659	intronic antisense	560	Ensembl	-					
+NR_077231	intergenic	823	RefSeq	-					
+ENSMUST00000165395	intergenic	445	Ensembl	-					
+AK006954	intronic antisense	920	Genbank	-					
+ENSMUST00000152128	intergenic	692	Ensembl	-					
+uc011xmi.1	exonic sense	2749	UCSC_knowngene	+	ncRNA	60	76	POC1B	0
+ENSMUST00000171722	exonic antisense	677	Ensembl	+	mRNA	18	93	MAST4	4.00E-44
+uc007ngy.1	intronic antisense	217	UCSC_knowngene	-					
+NR_038182	intronic antisense	741	RefSeq	-					
+uc007ejk.1	intronic antisense	398	UCSC_knowngene	-					
+ENSMUST00000151367	intergenic	790	Ensembl	-					
+uc008suh.2	intergenic	506	UCSC_knowngene	-					
+TCONS_00011022	intergenic	919	Alexander et al 2013	-					
+uc008vwe.1	exonic antisense	756	UCSC_knowngene	+	mRNA	9	85	UBE4B	8.00E-13
+ENSMUST00000145856	intergenic	425	Ensembl	-					
+NR_045300	intronic antisense	483	RefSeq	-					
+ENSMUST00000134467	exonic antisense	785	Ensembl	+	mRNA	16	87	NOP14	7.00E-35
+NR_040731	intergenic	796	RefSeq	-					
+uc012cdp.1	intergenic	2410	UCSC_knowngene	-					
+AK014901	intronic antisense	1537	Genbank	-					
+uc009nga.1	intronic antisense	971	UCSC_knowngene	-					
+AK017052	intergenic	1089	Genbank	-					
+NR_033783	intergenic	1629	RefSeq	-					
+NR_040689	intergenic	575	RefSeq	-					
+AK016706	exonic antisense	1110	Genbank	+	mRNA	20	73	ZNRF2	1.00E-32
+AK005676	intergenic	609	Genbank	-					
+ENSMUST00000142990	intergenic	425	Ensembl	-					
+ENSMUST00000163635	intergenic	445	Ensembl	-					
+uc009nyh.1	intergenic	810	UCSC_knowngene	-					
+AK028085	intergenic	259	Genbank	-					
+ENSMUST00000159706	bidirectional	557	Ensembl	-					
+ENSMUST00000166114	intergenic	700	Ensembl	-					
+ENSMUST00000180957	intergenic	722	Ensembl	-					
+TCONS_00032282	intergenic	1578	Alexander et al 2013	-					
+ENSMUST00000144122	intergenic	3551	Ensembl	+	mRNA	25	66	ABCA3	7.00E-53
+uc008eht.1	intergenic	658	UCSC_knowngene	-					
+ENSMUST00000176666	intergenic	402	Ensembl	-					
+NR_040475	intergenic	573	RefSeq	-					
+ENSMUST00000181679	intergenic	962	Ensembl	-					
+NR_004441	intergenic	2952	RefSeq	+	mRNA	2	93	PHGDH	8.00E-22
+ENSMUST00000180959	bidirectional	1361	Ensembl	-					
+AK131770	intergenic	249	Genbank	-					
+uc012ftb.1	exonic sense	1425	UCSC_knowngene	-					
+uc029xtv.1	intergenic	568	UCSC_knowngene	-					
+AK006261	intronic antisense	1047	Genbank	-					
+ENSMUST00000179966	intergenic	710	Ensembl	-					
+NR_029439	intergenic	714	RefSeq	-					
+ENSMUST00000159190	intronic antisense	230	Ensembl	-					
+TCONS_00011024	intergenic	915	Alexander et al 2013	-					
+uc009tyg.1	intergenic	1050	UCSC_knowngene	-					
+ENSMUST00000138861	intronic antisense	431	Ensembl	-					
+ENSMUST00000142826	exonic sense	263	Ensembl	+	mRNA	61	91	SCGN	1.00E-55
+ENSMUST00000141819	intronic antisense	2219	Ensembl	-					
+TCONS_00020869	intergenic	449	Alexander et al 2013	-					
+NR_040682	intergenic	1176	RefSeq	-					
+uc009fiw.1	intergenic	840	UCSC_knowngene	-					
+uc007qtp.1	exonic antisense	1037	UCSC_knowngene	+	mRNA	24	76	KIF27	6.00E-27
+uc008xau.1	bidirectional	1747	UCSC_knowngene	-					
+ENSMUST00000132611	exonic sense	2618	Ensembl	+	mRNA	88	75	SYCP2	0
+NR_040715	intergenic	1356	RefSeq	-					
+AK029823	intergenic	589	Genbank	-					
+uc007ktl.1	exonic antisense	1118	UCSC_knowngene	-					
+NR_045358	intergenic	1015	RefSeq	-					
+TCONS_00024923	intergenic	538	Alexander et al 2013	-					
+NR_046075	intergenic	677	RefSeq	-					
+ENSMUST00000161131	exonic sense	1053	Ensembl	+	ncRNA	58	81	SPAG16	6.00E-149
+TCONS_00008087	intergenic	727	Alexander et al 2013	+	mRNA	46	78	ZNF439	7.00E-30
+NR_038181	intronic antisense	644	RefSeq	-					
+TCONS_00010828	intergenic	1557	Alexander et al 2013	-					
+ENSMUST00000151850	exonic sense	1326	Ensembl	+	mRNA	29	78	BMP8B	5.00E-87
+NR_036591	intergenic	468	RefSeq	-					
+ENSMUST00000141656	exonic antisense	298	Ensembl	-					
+ENSMUST00000155816	intergenic	332	Ensembl	-					
+uc007qxz.1	intergenic	754	UCSC_knowngene	-					
+uc008bfj.1	exonic antisense	794	UCSC_knowngene	+	mRNA	28	84	ITPR3	2.00E-33
+ENSMUST00000153728	intergenic	424	Ensembl	-					
+AK133331	intergenic	2775	Genbank	-					
+AK015804	intergenic	978	Genbank	-					
+TCONS_00032300	intergenic	752	Alexander et al 2013	-					
+uc007tjg.1	intergenic	342	UCSC_knowngene	-					
+NR_045316	exonic antisense	592	RefSeq	+	mRNA	20	79	VWCE	4.00E-19
+uc007vop.1	intergenic	1061	UCSC_knowngene	-					
+NR_045842	intronic antisense	1526	RefSeq	-					
+AK015186	intronic antisense	1314	Genbank	-					
+uc008pcd.1	intergenic	1703	UCSC_knowngene	+	mRNA	15	75	LARP1	1.00E-41
+ENSMUST00000155517	exonic sense	582	Ensembl	+	ncRNA	71	82	ARL6IP6	8.00E-116
+TCONS_00008084	intergenic	496	Alexander et al 2013	+	lncRNA	28	79	ZNF625-ZNF20	2.00E-24
+ENSMUST00000160164	intronic antisense	305	Ensembl	-					
+uc007zwv.1	bidirectional	662	UCSC_knowngene	-					
+NR_045903	intergenic	964	RefSeq	-					
+TCONS_00011021	intergenic	935	Alexander et al 2013	-					
+ENSMUST00000132008	exonic sense	2257	Ensembl	+	mRNA	45	85	DDX20	0
+ENSMUST00000141549	exonic antisense	706	Ensembl	+	mRNA	12	90	CLNS1A	2.00E-22
+ENSMUST00000150099	exonic antisense	281	Ensembl	-					
+AK016877	bidirectional	1642	Genbank	-					
+TCONS_00022509	intergenic	410	Alexander et al 2013	-					
+uc008znt.2	exonic sense	979	UCSC_knowngene	-					
+NR_045064	intergenic	754	RefSeq	-					
+TCONS_00022752	intergenic	339	Alexander et al 2013	-					
+uc007ief.1	intergenic	933	UCSC_knowngene	-					
+NR_040540	intronic antisense	937	RefSeq	-					
+AK028099	intergenic	1142	Genbank	-					
+uc009ocw.2	exonic sense	637	UCSC_knowngene	-					
+ENSMUST00000135120	exonic sense	598	Ensembl	+	mRNA	41	88	GRM1	5.00E-80
+NR_045775	exonic antisense	518	RefSeq	+	mRNA	37	91	ATP11A	9.00E-40
+AK030136	exonic antisense	3043	Genbank	-					
+AK044352	intergenic	1412	Genbank	-					
+AK007284	intergenic	570	Genbank	-					
+TCONS_00009561	intergenic	580	Alexander et al 2013	+	mRNA	99	86	NASP	0
+AK132933	intergenic	1930	Genbank	-					
+AK019678	intergenic	417	Genbank	-					
+AK076995	intergenic	3451	Genbank	-					
+AK006998	intergenic	385	Genbank	-					
+AK153643	exonic antisense	1275	Genbank	+	mRNA	8	83	DYX1C1	2.00E-23
+AK132887	intergenic	2286	Genbank	-					
+ENSMUST00000125269	exonic antisense	723	Ensembl	+	mRNA	7	88	PRPSAP2	2.00E-08
+ENSMUST00000132510	exonic sense	2080	Ensembl	+	mRNA	99	86	CFAP69	0
+NR_040580	exonic antisense	997	RefSeq	+	mRNA	14	76	PCNT	1.00E-18
+NR_046041	bidirectional	759	RefSeq	-					
+ENSMUST00000129980	intergenic	1243	Ensembl	-					
+AK015411	intergenic	1035	Genbank	-					
+ENSMUST00000129509	exonic sense	727	Ensembl	+	mRNA	98	86	ARL5B	0
+NR_029424	exonic sense	2108	RefSeq	+	mRNA	76	77	CFAP53	0
+AK077207	exonic antisense	1350	Genbank	-					
+ENSMUST00000149223	intronic antisense	753	Ensembl	-					
+ENSMUST00000139143	exonic sense	3578	Ensembl	+	mRNA	97	80	ZNF451	0
+AK006012	exonic antisense	734	Genbank	+	mRNA	23	70	C16orf62	4.00E-07
+TCONS_00035978	intergenic	208	Alexander et al 2013	+	mRNA	40	80	TEX13C	2.00E-10
+ENSMUST00000135982	exonic sense	459	Ensembl	+	mRNA	68	88	LURAP1	1.00E-107
+ENSMUST00000136655	exonic sense	649	Ensembl	+	ncRNA	23	88	NSUN4	2.00E-47
+AK006312	exonic antisense	603	Genbank	+	mRNA	22	93	PPP2R5C	6.00E-49
+AK044087	intergenic	840	Genbank	-					
+AK005901	intergenic	1379	Genbank	-					
+AK029609	intronic antisense	1302	Genbank	-					
+ENSMUST00000155855	exonic antisense	610	Ensembl	-					
+TCONS_00010825	intergenic	3370	Alexander et al 2013	-					
+ENSMUST00000161711	exonic sense	1390	Ensembl	+	mRNA	37	80	OPA3	2.00E-124
+NR_040479	intergenic	761	RefSeq	-					
+ENSMUST00000137134	intronic antisense	603	Ensembl	-					
+AK007029	exonic antisense	1447	Genbank	+	mRNA	10	99	PSMD11	6.00E-68
+ENSMUST00000181127	exonic antisense	1163	Ensembl	+	mRNA	24	80	RCOR3	1.00E-63
+ENSMUST00000139488	exonic antisense	634	Ensembl	-					
+TCONS_00025019	intergenic	366	Alexander et al 2013	-					
+NR_073360	intergenic	1439	RefSeq	-					
+AK076582	intergenic	1101	Genbank	-					
+uc008rbl.1	exonic antisense	569	UCSC_knowngene	+	ncRNA	71	78	COL11A1	1.00E-93
+ENSMUST00000150273	intergenic	491	Ensembl	-					
+ENSMUST00000128675	bidirectional	494	Ensembl	-					
+uc008ehs.1	intergenic	619	UCSC_knowngene	-					
+AK007127	intronic antisense	515	Genbank	-					
+ENSMUST00000160434	exonic sense	563	Ensembl	+	mRNA	71	79	CTDP1	6.00E-93
+AK015570	intronic antisense	1030	Genbank	-					
+ENSMUST00000145018	intergenic	571	Ensembl	-					
+AK016094	intergenic	979	Genbank	-					
+ENSMUST00000098472	exonic antisense	3229	Ensembl	+	ncRNA	5	95	CNOT1	1.00E-63
+ENSMUST00000125696	exonic sense	576	Ensembl	+	mRNA	63	90	HNRNPR	5.00E-137
+AK007104	bidirectional	653	Genbank	-					
+uc007svs.1	exonic antisense	208	UCSC_knowngene	+	mRNA	43	85	SFMBT1	3.00E-18
+AK051113	intergenic	3154	Genbank	-					
+ENSMUST00000124912	exonic antisense	268	Ensembl	-					
+uc029voq.1	exonic antisense	726	UCSC_knowngene	-					
+AK015026	intergenic	746	Genbank	-					
+ENSMUST00000147801	exonic sense	817	Ensembl	+	ncRNA	41	75	EFCAB1	8.00E-54
+TCONS_00011023	intergenic	931	Alexander et al 2013	-					
+NR_033785	intergenic	390	RefSeq	-					
+ENSMUST00000142068	intronic antisense	1282	Ensembl	-					
+uc029rpj.1	exonic antisense	3005	UCSC_knowngene	-					
+NR_045803	intergenic	1745	RefSeq	-					
+uc008nbs.2	intergenic	826	UCSC_knowngene	-					
+ENSMUST00000121013	intergenic	856	Ensembl	-					
+ENSMUST00000152330	exonic sense	1026	Ensembl	+	mRNA	17	79	ZNF780A	8.00E-35
+AK015216	intergenic	654	Genbank	-					
+ENSMUST00000133619	exonic sense	1615	Ensembl	+	mRNA	66	84	RP2	0
+NR_027879	bidirectional	883	RefSeq	-					
+uc007scc.1	intergenic	680	UCSC_knowngene	-					
+NR_045928	intronic antisense	489	RefSeq	-					
+TCONS_00000122	intergenic	2120	Alexander et al 2013	-					
+AK016911	intergenic	1450	Genbank	-					
+ENSMUST00000118568	intergenic	474	Ensembl	-					
+AK016862	intergenic	1734	Genbank	-					
+TCONS_00008075	intergenic	443	Alexander et al 2013	+	ncRNA	31	81	ZNF833P	4.00E-27
+ENSMUST00000161511	exonic antisense	574	Ensembl	+	mRNA	14	88	HMGA2	3.00E-21
+TCONS_00000539	intergenic	719	Alexander et al 2013	-					
+AK133364	intergenic	4244	Genbank	-					
+ENSMUST00000119381	intronic sense	1155	Ensembl	+	mRNA	93	78	SDCCAG3	0
+AK079217	exonic antisense	1233	Genbank	-					
+TCONS_00032520	intergenic	2434	Alexander et al 2013	-					
+NR_040614	intronic antisense	1029	RefSeq	-					
+ENSMUST00000164605	intronic sense	954	Ensembl	-					
+uc009asn.2	intergenic	249	UCSC_knowngene	-					
+uc029umf.1	bidirectional	1479	UCSC_knowngene	-					
+ENSMUST00000153180	intronic antisense	1109	Ensembl	-					
+AK015042	intergenic	663	Genbank	+	mRNA	14	77	AGAP1	7.00E-10
+NR_045186	intergenic	804	RefSeq	-					
+ENSMUST00000121081	intergenic	1453	Ensembl	+	ncRNA	9	75	SENP1	1.00E-17
+ENSMUST00000181925	exonic antisense	5831	Ensembl	+	mRNA	12	92	NUB1	5.00E-67
+NR_045813	exonic antisense	880	RefSeq	+	mRNA	19	94	KDM7A	1.00E-69
+TCONS_00032470	intergenic	1288	Alexander et al 2013	-					
+ENSMUST00000146144	exonic sense	528	Ensembl	+	mRNA	74	75	TMCO5A	4.00E-64
+ENSMUST00000148019	bidirectional	1335	Ensembl	-					
+ENSMUST00000174760	exonic antisense	484	Ensembl	+	mRNA	24	81	YAP1	3.00E-20
+AK015370	intergenic	1284	Genbank	-					
+AK017011	intergenic	951	Genbank	+	ncRNA	12	91	RPSAP9	1.00E-37
+ENSMUST00000117163	intergenic	361	Ensembl	-					
+ENSMUST00000123892	exonic sense	1061	Ensembl	+	mRNA	34	83	C8B	7.00E-105
+ENSMUST00000153248	exonic sense	420	Ensembl	+	mRNA	40	84	TEX43	1.00E-25
+uc012afa.1	exonic sense	4686	UCSC_knowngene	+	mRNA	29	85	HSPBAP1	2.00E-180
+uc009glz.2	intergenic	1011	UCSC_knowngene	-					
+AK018878	intergenic	363	Genbank	-					
+NR_040517	intronic antisense	2502	RefSeq	-					
+NR_045302	bidirectional	563	RefSeq	-					
+ENSMUST00000153685	exonic antisense	1804	Ensembl	+	mRNA	9	84	GCNT2	6.00E-17
+uc007qeb.1	intergenic	453	UCSC_knowngene	-					
+NR_038077	exonic antisense	771	RefSeq	-					
+AK005750	intergenic	706	Genbank	-					
+NR_102375	intergenic	729	RefSeq	-					
+NR_045831	intronic antisense	1582	RefSeq	-					
+NR_045287	bidirectional	845	RefSeq	-					
+NR_073370	bidirectional	2831	RefSeq	+	mRNA	48	69	C16orf71	2.00E-150
+ENSMUST00000137411	bidirectional	1152	Ensembl	-					
+NR_045159	intergenic	1378	RefSeq	-					
+NR_040364	exonic antisense	2548	RefSeq	+	ncRNA	7	94	LOC283922	6.00E-36
+NR_045315	intronic antisense	770	RefSeq	-					
+ENSMUST00000128689	exonic sense	1186	Ensembl	+	mRNA	63	90	TMOD1	0
+uc007gyt.1	intronic antisense	1724	UCSC_knowngene	-					
+uc007ahm.1	intronic antisense	398	UCSC_knowngene	-					
+AK015082	intergenic	498	Genbank	-					
+AK030191	intergenic	2302	Genbank	-					
+NR_038350	exonic antisense	733	RefSeq	+	mRNA	24	89	UBR1	3.00E-58
+ENSMUST00000131455	exonic sense	453	Ensembl	+	mRNA	43	91	SAP18	3.00E-72
+AK016636	intronic antisense	1267	Genbank	-					
+ENSMUST00000142323	exonic antisense	543	Ensembl	+	mRNA	23	86	SLC30A4	3.00E-34
+ENSMUST00000149077	intronic sense	226	Ensembl	-					
+uc029wny.1	intergenic	1159	UCSC_knowngene	-					
+NR_040565	intergenic	954	RefSeq	-					
+ENSMUST00000152462	bidirectional	443	Ensembl	+	lncRNA	26	79	HAGLR	6.00E-16
+NR_078345	intronic antisense	3739	RefSeq	+	ncRNA	12	85	RAP2C	3.00E-141
+AK019720	intergenic	427	Genbank	-					
+ENSMUST00000172980	exonic sense	418	Ensembl	+	mRNA	75	91	PITX3	4.00E-120
+ENSMUST00000129761	exonic sense	1157	Ensembl	+	mRNA	53	89	CAPNS1	0
+NR_040687	intergenic	747	RefSeq	-					
+AK019707	intergenic	494	Genbank	-					
+AK048871	intergenic	1515	Genbank	-					
+uc007qzm.1	intergenic	326	UCSC_knowngene	+	lncRNA	50	79	ZNF625-ZNF20	9.00E-31
+ENSMUST00000096370	exonic sense	1101	Ensembl	+	mRNA	53	70	SMPD5	5.00E-74
+ENSMUST00000132834	intergenic	383	Ensembl	-					
+uc008osz.1	intergenic	707	UCSC_knowngene	-					
+ENSMUST00000172202	intergenic	1527	Ensembl	-					
+ENSMUST00000168888	exonic sense	624	Ensembl	+	mRNA	100	89	KCTD19	2.00E-116
+ENSMUST00000147939	intronic antisense	625	Ensembl	-					
+AK019532	exonic antisense	384	Genbank	+	mRNA	18	92	NCOA1	1.00E-19
+ENSMUST00000131752	exonic sense	5620	Ensembl	-					
+TCONS_00013605	intergenic	622	Alexander et al 2013	-					
+AK006117	intergenic	533	Genbank	-					
+uc009glf.1	intergenic	1202	UCSC_knowngene	-					
+NR_038035	intergenic	864	RefSeq	-					
+AK133439	intergenic	1608	Genbank	-					
+AK006774	intergenic	875	Genbank	-					
+uc007ojx.1	exonic antisense	1035	UCSC_knowngene	+	mRNA	14	87	ADCK1	9.00E-45
+ENSMUST00000027895	intergenic	2157	Ensembl	+	ncRNA	37	83	AXDND1	0
+AK020755	bidirectional	782	Genbank	-					
+ENSMUST00000122109	intergenic	520	Ensembl	+	mRNA	60	72	MRPS7	5.00E-37
+ENSMUST00000151350	exonic sense	588	Ensembl	+	mRNA	68	79	CAPN11	5.00E-69
+ENSMUST00000126507	exonic sense	1083	Ensembl	+	mRNA	19	85	DNAJC25-GNG10	1.00E-56
+ENSMUST00000139919	intergenic	518	Ensembl	-					
+NR_024720	bidirectional	1275	RefSeq	+	mRNA	73	82	NDC80	6.00E-112
+NR_045476	exonic antisense	1111	RefSeq	+	mRNA	16	88	MPRIP	5.00E-24
+AK076626	intergenic	2437	Genbank	-					
+uc012cez.1	exonic sense	2148	UCSC_knowngene	+	ncRNA	99	87	SEL1L2	0
+ENSMUST00000098582	exonic sense	962	Ensembl	-					
+ENSMUST00000138462	intergenic	252	Ensembl	-					
+NR_040548	bidirectional	861	RefSeq	-					
+uc009pfx.1	exonic sense	1390	UCSC_knowngene	-					
+NR_038031	exonic antisense	758	RefSeq	+	mRNA	38	74	KIAA0040	1.00E-45
+ENSMUST00000135990	exonic antisense	356	Ensembl	-					
+AK031914	exonic antisense	994	Genbank	+	ncRNA	17	86	CHRAC1	2.00E-48
+NR_045167	bidirectional	938	RefSeq	-					
+ENSMUST00000150918	exonic sense	269	Ensembl	-					
+uc012ehf.1	exonic sense	1137	UCSC_knowngene	-					
+NR_045898	intronic antisense	357	RefSeq	-					
+uc009ngb.1	intergenic	908	UCSC_knowngene	-					
+uc029rom.1	intergenic	229	UCSC_knowngene	-					
+ENSMUST00000178640	intergenic	381	Ensembl	-					
+uc009osd.1	intergenic	1497	UCSC_knowngene	-					
+AK015656	exonic antisense	1157	Genbank	-					
+uc007rbs.1	intergenic	549	UCSC_knowngene	+	mRNA	36	78	ZNF141	7.00E-34
+ENSMUST00000152570	exonic antisense	557	Ensembl	+	mRNA	14	87	RORA	5.00E-18
+ENSMUST00000130159	intergenic	458	Ensembl	-					
+ENSMUST00000147870	intergenic	587	Ensembl	-					
+ENSMUST00000145792	exonic sense	367	Ensembl	+	mRNA	63	73	CCDC116	4.00E-26
+uc007vcl.1	intronic antisense	246	UCSC_knowngene	-					
+AK157092	exonic antisense	3085	Genbank	+	mRNA	4	88	UBE2E2	7.00E-48
+AK016245	intronic antisense	1062	Genbank	-					
+ENSMUST00000125578	intergenic	694	Ensembl	-					
+AK019609	intergenic	1003	Genbank	-					
+uc007rbl.1	exonic antisense	2624	UCSC_knowngene	-					
+uc009bla.1	exonic antisense	874	UCSC_knowngene	-					
+ENSMUST00000137315	intergenic	592	Ensembl	-					
+NR_045614	bidirectional	1402	RefSeq	+	mRNA	37	75	RBBP6	2.00E-93
+AK133312	exonic antisense	3687	Genbank	+	mRNA	2	94	PRKCZ	5.00E-31
+NR_046191	intergenic	341	RefSeq	-					
+ENSMUST00000153049	bidirectional	877	Ensembl	-					
+NR_046024	intergenic	2107	RefSeq	-					
+ENSMUST00000128181	exonic antisense	248	Ensembl	+	mRNA	22	88	BCL3	9.00E-09
+ENSMUST00000142492	intronic antisense	779	Ensembl	-					
+uc011xum.1	exonic sense	1116	UCSC_knowngene	+	mRNA	61	77	CDKL3	1.00E-144
+NR_045824	intronic antisense	910	RefSeq	-					
+AK132659	bidirectional	2124	Genbank	-					
+ENSMUST00000125283	exonic sense	999	Ensembl	+	mRNA	61	84	NPTXR	0
+uc012enh.2	exonic sense	2507	UCSC_knowngene	-					
+AK132707	intergenic	1013	Genbank	-					
+TCONS_00025276	intergenic	1604	Alexander et al 2013	-					
+AK161464	exonic antisense	3967	Genbank	+	mRNA	1	95	XRRA1	7.00E-10
+AK161420	exonic antisense	2020	Genbank	+	mRNA	17	81	ZNF367	5.00E-94
+ENSMUST00000142472	exonic sense	3059	Ensembl	+	ncRNA	49	79	TCAM1P	0
+ENSMUST00000179029	intergenic	417	Ensembl	-					
+ENSMUST00000119677	intergenic	314	Ensembl	-					
+ENSMUST00000181204	intergenic	1033	Ensembl	-					
+AK007306	exonic antisense	317	Genbank	-					
+NR_033565	intergenic	1320	RefSeq	-					
+ENSMUST00000180709	bidirectional	637	Ensembl	-					
+ENSMUST00000156376	intergenic	663	Ensembl	-					
+ENSMUST00000180398	exonic antisense	859	Ensembl	+	mRNA	23	69	OR2C3	1.00E-09
+AK018973	intronic antisense	426	Genbank	-					
+ENSMUST00000146576	intergenic	3127	Ensembl	-					
+ENSMUST00000126831	exonic sense	1376	Ensembl	+	ncRNA	52	74	TBATA	8.00E-73
+NR_028583	intergenic	492	RefSeq	+	ncRNA	39	83	LOC100505478	3.00E-46
+AK149665	intergenic	3769	Genbank	-					
+NR_003372	intergenic	1253	RefSeq	+	mRNA	37	82	ARL14EPL	3.00E-128
+uc009grb.1	exonic sense	437	UCSC_knowngene	-					
+AK016118	intergenic	687	Genbank	-					
+AK006100	bidirectional	504	Genbank	-					
+ENSMUST00000164150	intronic antisense	537	Ensembl	-					
+AK052254	intergenic	1714	Genbank	-					
+ENSMUST00000136860	intergenic	576	Ensembl	-					
+uc007tcb.1	intronic antisense	1512	UCSC_knowngene	-					
+AK015764	intergenic	1276	Genbank	+	mRNA	86	81	NACC1	0
+ENSMUST00000181755	bidirectional	376	Ensembl	-					
+ENSMUST00000130331	intergenic	366	Ensembl	-					
+TCONS_00008086	intergenic	600	Alexander et al 2013	+	mRNA	29	78	ZNF439	7.00E-30
+uc007hcm.2	bidirectional	681	UCSC_knowngene	-					
+AK014930	bidirectional	589	Genbank	-					
+uc009cff.1	intergenic	627	UCSC_knowngene	-					
+uc007sdp.1	intergenic	717	UCSC_knowngene	-					
+NR_029441	bidirectional	2825	RefSeq	-					
+TCONS_00008077	intergenic	316	Alexander et al 2013	-					
+AK132921	intergenic	1049	Genbank	-					
+AK077177	intergenic	1439	Genbank	+	mRNA	72	84	BMP2K	0
+AK041910	intergenic	1764	Genbank	-					
+AK015449	intergenic	786	Genbank	-					
+uc009ibe.1	exonic antisense	635	UCSC_knowngene	-					
+AK006130	exonic antisense	1646	Genbank	-					
+ENSMUST00000156409	intergenic	400	Ensembl	-					
+ENSMUST00000156236	intergenic	621	Ensembl	-					
+TCONS_00012173	intergenic	283	Alexander et al 2013	-					
+AK006850	intergenic	353	Genbank	-					
+AK133121	intergenic	1134	Genbank	-					
+ENSMUST00000177453	intronic antisense	620	Ensembl	-					
+uc008sae.1	intergenic	696	UCSC_knowngene	-					
+AK018903	exonic antisense	682	Genbank	+	mRNA	54	73	FNBP4	2.00E-60
+AK006912	exonic antisense	484	Genbank	+	mRNA	38	83	RTFDC1	3.00E-46
+NR_045069	bidirectional	5404	RefSeq	-					
+ENSMUST00000155499	intergenic	1088	Ensembl	-					
+ENSMUST00000139822	exonic antisense	1099	Ensembl	+	mRNA	19	89	HIST1H4J	5.00E-75
+ENSMUST00000146657	exonic antisense	447	Ensembl	+	ncRNA	32	86	PDGFC	8.00E-41
+AK031296	intergenic	4520	Genbank	-					
+ENSMUST00000135838	exonic sense	924	Ensembl	+	mRNA	80	80	ARHGAP40	0
+NR_045057	bidirectional	1142	RefSeq	-					
+TCONS_00032524	intergenic	782	Alexander et al 2013	-					
+AK007049	exonic antisense	768	Genbank	-					
+uc008ami.1	intergenic	4346	UCSC_knowngene	-					
+uc009qwk.1	intronic antisense	366	UCSC_knowngene	-					
+AK016922	bidirectional	1546	Genbank	-					
+ENSMUST00000162615	intronic sense	2162	Ensembl	-					
+uc008hcp.1	exonic sense	1812	UCSC_knowngene	+	mRNA	63	71	SPATA6L	9.00E-121
+ENSMUST00000168234	intergenic	648	Ensembl	-					
+uc007qtg.1	intergenic	444	UCSC_knowngene	-					
+ENSMUST00000124347	exonic sense	599	Ensembl	+	mRNA	96	87	SPATA5	0
+AK053661	exonic antisense	1830	Genbank	+	mRNA	8	82	TMEM91	3.00E-34
+uc007awz.2	exonic sense	2978	UCSC_knowngene	+	mRNA	97	88	DNAH7	0
+uc009kyw.1	intergenic	633	UCSC_knowngene	-					
+NR_040320	intergenic	2238	RefSeq	-					
+uc029xuo.1	intergenic	809	UCSC_knowngene	-					
+ENSMUST00000153387	exonic sense	937	Ensembl	+	mRNA	75	86	PPA2	0
+TCONS_00025017	intergenic	301	Alexander et al 2013	-					
+ENSMUST00000141935	intergenic	396	Ensembl	-					
+ENSMUST00000118862	intergenic	671	Ensembl	+	mRNA	99	83	CASC4	7.00E-126
+uc012ebn.1	intergenic	599	UCSC_knowngene	-					
+ENSMUST00000153795	intergenic	596	Ensembl	-					
+ENSMUST00000153786	intergenic	544	Ensembl	-					
+NR_045473	bidirectional	542	RefSeq	-					
+ENSMUST00000162572	exonic sense	770	Ensembl	+	mRNA	72	81	WDR63	8.00E-144
+AK007040	intergenic	754	Genbank	-					
+ENSMUST00000173787	intergenic	2368	Ensembl	-					
+ENSMUST00000140409	intergenic	839	Ensembl	-					
+ENSMUST00000141675	exonic sense	1009	Ensembl	+	mRNA	52	81	KIF2C	3.00E-141
+ENSMUST00000154284	intergenic	405	Ensembl	-					
+AK006652	intergenic	607	Genbank	-					
+AK030114	intergenic	2782	Genbank	-					
+NR_045364	intergenic	1185	RefSeq	-					
+ENSMUST00000145585	exonic antisense	1065	Ensembl	-					
+AK050907	bidirectional	367	Genbank	-					
+ENSMUST00000143328	exonic antisense	277	Ensembl	+	mRNA	40	89	PLXN4	8.00E-34
+AK006537	intergenic	719	Genbank	-					
+AK015853	exonic antisense	1191	Genbank	+	mRNA	5	92	KLF5	8.00E-16
+AK006235	bidirectional	770	Genbank	-					
+NR_040620	exonic antisense	407	RefSeq	+	mRNA	13	89	NEB	6.00E-11
+ENSMUST00000148042	exonic sense	1103	Ensembl	+	mRNA	76	85	ZMYND19	0
+TCONS_00002412	intergenic	912	Alexander et al 2013	-					
+uc009jns.1	intronic antisense	1249	UCSC_knowngene	-					
+AK019761	intronic antisense	442	Genbank	-					
+ENSMUST00000147412	bidirectional	333	Ensembl	-					
+ENSMUST00000154296	exonic antisense	794	Ensembl	+	mRNA	6	89	EXOSC2	2.00E-10
+ENSMUST00000117839	intergenic	446	Ensembl	+	mRNA	98	76	KIF2C	6.00E-81
+AK016871	intronic antisense	878	Genbank	-					
+NR_029438	bidirectional	1045	RefSeq	-					
+AK035480	intergenic	1838	Genbank	-					
+ENSMUST00000174044	exonic sense	775	Ensembl	-					
+uc007diu.1	intergenic	443	UCSC_knowngene	-					
+NR_029447	exonic antisense	3595	RefSeq	+	mRNA	3	93	PTBP1	9.00E-40
+uc029ygl.1	intergenic	989	UCSC_knowngene	-					
+ENSMUST00000123104	exonic sense	839	Ensembl	+	mRNA	72	77	KNSTRN	3.00E-115
+ENSMUST00000126687	exonic sense	360	Ensembl	+	mRNA	31	94	CAP2	4.00E-19
+ENSMUST00000115600	exonic sense	1519	Ensembl	+	mRNA	61	84	GNB1L	3.00E-134
+ENSMUST00000180861	exonic antisense	1699	Ensembl	+	mRNA	3	88	MAP4K5	2.00E-10
+uc009hrh.1	intergenic	3287	UCSC_knowngene	-					
+ENSMUST00000154285	intergenic	774	Ensembl	-					
+AK015787	bidirectional	904	Genbank	-					
+uc008ygr.1	intergenic	395	UCSC_knowngene	-					
+AK076860	exonic antisense	681	Genbank	-					
+AK015962	exonic antisense	767	Genbank	+	mRNA	59	84	HIST3H2A	2.00E-138
+uc007laa.2	exonic sense	1593	UCSC_knowngene	+	mRNA	29	72	DLX4	5.00E-70
+ENSMUST00000125909	intergenic	1013	Ensembl	-					
+ENSMUST00000133237	exonic sense	3371	Ensembl	+	mRNA	81	68	NLRP5	0
+BU962743	exonic sense	851	lincRNA	+	mRNA	26	91	TMEM64	3.00E-81
+AK019580	intergenic	1573	Genbank	-					
+uc011zdd.1	exonic sense	3627	UCSC_knowngene	+	mRNA	69	73	POLK	0
+NR_040644	intergenic	818	RefSeq	-					
+NR_040753	intergenic	583	RefSeq	-					
+DT912863	intergenic	549	lincRNA	-					
+ENSMUST00000130316	exonic sense	448	Ensembl	+	mRNA	11	85	GLT6D1	1.00E-06
+ENSMUST00000135147	intronic antisense	660	Ensembl	-					
+NR_045386	intergenic	702	RefSeq	-					
+NR_045661	intergenic	1895	RefSeq	-					
+ENSMUST00000171004	intergenic	473	Ensembl	-					
+NR_033736	intergenic	2827	RefSeq	-					
+AK016440	intergenic	1167	Genbank	-					
+ENSMUST00000138411	exonic antisense	671	Ensembl	+	mRNA	26	93	TNC	1.00E-34
+AK133060	intronic antisense	2403	Genbank	-					
+ENSMUST00000153689	exonic sense	375	Ensembl	+	mRNA	69	87	LSM4	1.00E-83
+uc007tah.1	exonic sense	441	UCSC_knowngene	-					
+ENSMUST00000181870	intronic antisense	1045	Ensembl	-					
+ENSMUST00000129675	bidirectional	649	Ensembl	-					
+ENSMUST00000141091	intergenic	617	Ensembl	-					
+ENSMUST00000121166	intergenic	231	Ensembl	-					
+uc029sob.1	intergenic	662	UCSC_knowngene	-					
+uc008ouc.1	bidirectional	477	UCSC_knowngene	-					
+ENSMUST00000125631	intergenic	718	Ensembl	-					
+NR_046307	intronic antisense	976	RefSeq	-					
+uc029xth.1	intergenic	388	UCSC_knowngene	-					
+AK021060	bidirectional	938	Genbank	-					
+AK016606	intergenic	1337	Genbank	-					
+AK016241	exonic antisense	1271	Genbank	+	ncRNA	99	82	ZSWIM3	0
+uc008nhw.1	exonic sense	2398	UCSC_knowngene	+	mRNA	16	89	NOL4L	1.00E-76
+NR_038172	exonic antisense	1852	RefSeq	+	mRNA	3	88	MAP4K5	2.00E-10
+AK038039	intergenic	1576	Genbank	-					
+NR_040693	intergenic	1126	RefSeq	-					
+NR_028368	exonic antisense	978	RefSeq	-					
+ENSMUST00000159113	intergenic	524	Ensembl	-					
+NR_045575	exonic sense	2889	RefSeq	+	mRNA	47	78	MTFR1	0
+ENSMUST00000140903	exonic antisense	383	Ensembl	-					
+ENSMUST00000133675	exonic antisense	594	Ensembl	-					
+ENSMUST00000139530	exonic antisense	679	Ensembl	+	mRNA	14	88	MPRIP	3.00E-23
+NR_040476	intronic antisense	2416	RefSeq	-					
+NR_040601	intronic antisense	895	RefSeq	-					
+AK016418	intronic antisense	1004	Genbank	-					
+ENSMUST00000168243	intergenic	672	Ensembl	-					
+ENSMUST00000123423	exonic antisense	446	Ensembl	-					
+ENSMUST00000127180	intergenic	396	Ensembl	-					
+ENSMUST00000180533	bidirectional	1481	Ensembl	-					
+AK014883	intronic antisense	1099	Genbank	-					
+uc029wbk.1	intergenic	285	UCSC_knowngene	-					
+AK006642	intergenic	480	Genbank	-					
+TCONS_00008303	intergenic	220	Alexander et al 2013	-					
+uc008zsf.1	intergenic	390	UCSC_knowngene	-					
+mouselincRNA1321-	bidirectional	5375	lincRNA	-					
+uc008pdl.1	intergenic	412	UCSC_knowngene	-					
+uc011xic.1	intronic antisense	3265	UCSC_knowngene	-					
+uc007vkv.1	exonic sense	9479	UCSC_knowngene	+	ncRNA	6	71	SEMA5B	4.00E-45
+ENSMUST00000150669	exonic sense	959	Ensembl	+	mRNA	51	81	EYA2	4.00E-129
+ENSMUST00000175816	exonic sense	748	Ensembl	+	mRNA	89	88	USP2	0
+BY706913	intergenic	674	lincRNA	-					
+NR_027637	intergenic	520	RefSeq	-					
+NR_024558	intergenic	1643	RefSeq	+	mRNA	72	78	TTLL2	0
+ENSMUST00000145711	intergenic	273	Ensembl	-					
+NR_045363	intergenic	669	RefSeq	+	lncRNA	52	88	LOC101927497	3.00E-122
+uc029xqj.1	intergenic	671	UCSC_knowngene	-					
+AK015285	bidirectional	738	Genbank	-					
+AK131748	exonic antisense	804	Genbank	+	mRNA	21	90	SF3B2	3.00E-59
+ENSMUST00000144202	bidirectional	381	Ensembl	-					
+NR_027883	intergenic	454	RefSeq	-					
+uc029taf.1	intergenic	4337	UCSC_knowngene	-					
+NR_040600	intergenic	970	RefSeq	-					
+ENSMUST00000031274	intergenic	916	Ensembl	-					
+AK154661	exonic antisense	4584	Genbank	+	mRNA	5	82	DCTN4	1.00E-58
+NR_045936	intergenic	396	RefSeq	-					
+ENSMUST00000121338	intergenic	216	Ensembl	-					
+AK034605	exonic antisense	1645	Genbank	+	mRNA	13	70	MYCBPAP	8.00E-16
+mouselincRNA1512-	intergenic	18209	lincRNA	-					
+ENSMUST00000156403	exonic antisense	709	Ensembl	+	mRNA	27	92	NOS3	4.00E-52
+AK145764	exonic antisense	3150	Genbank	+	mRNA	11	85	ITGAE	8.00E-41
+ENSMUST00000165439	intergenic	912	Ensembl	-					
+ENSMUST00000149367	bidirectional	748	Ensembl	-					
+ENSMUST00000143760	intergenic	901	Ensembl	-					
+ENSMUST00000139968	exonic sense	1033	Ensembl	+	mRNA	48	71	C9orf50	9.00E-66
+ENSMUST00000133392	exonic sense	619	Ensembl	-					
+ENSMUST00000128647	exonic antisense	1227	Ensembl	+	mRNA	7	77	LRRC75A	3.00E-08
+ENSMUST00000179135	intergenic	1150	Ensembl	-					
+NR_038058	bidirectional	1056	RefSeq	+	mRNA	12	84	MSI2	3.00E-27
+ENSMUST00000020222	intergenic	2088	Ensembl	-					
+ENSMUST00000148495	exonic sense	2613	Ensembl	+	mRNA	88	85	HFM1	0
+AK006025	intergenic	656	Genbank	-					
+ENSMUST00000148064	exonic antisense	2071	Ensembl	+	mRNA	5	94	RAB40C	5.00E-37
+mouselincRNA0753+	intergenic	6742	lincRNA	-					
+TCONS_00009638	intergenic	951	Alexander et al 2013	-					
+AK146570	exonic antisense	2984	Genbank	+	ncRNA	3	93	UBE2W	3.00E-34
+ENSMUST00000129835	exonic sense	2711	Ensembl	+	mRNA	52	80	SLC2A6	4.00E-173
+uc007cfx.1	intergenic	1155	UCSC_knowngene	+	mRNA	58	70	RPL7A	2.00E-82
+NR_045433	intergenic	590	RefSeq	-					
+uc007ayw.1	exonic antisense	531	UCSC_knowngene	+	mRNA	26	84	PMS1	1.00E-33
+ENSMUST00000135106	exonic sense	2473	Ensembl	+	mRNA	76	76	IRAK3	0
+NR_003962	intronic sense	2261	RefSeq	-					
+AK014916	intergenic	1704	Genbank	-					
+TCONS_00033982	intergenic	748	Alexander et al 2013	-					
+AK080055	intergenic	1468	Genbank	-					
+ENSMUST00000162024	exonic sense	742	Ensembl	+	mRNA	15	90	ADH5	3.00E-34
+ENSMUST00000118143	intergenic	2680	Ensembl	+	mRNA	100	85	LARP1	0
+AK030193	intergenic	2271	Genbank	-					
+AK031104	exonic antisense	2951	Genbank	+	ncRNA	6	93	PPM1E	8.00E-73
+ENSMUST00000121398	intergenic	603	Ensembl	-					
+ENSMUST00000139833	exonic sense	555	Ensembl	+	mRNA	19	80	FAM46C	2.00E-17
+TCONS_00010923	intergenic	320	Alexander et al 2013	-					
+AK133225	intergenic	2556	Genbank	-					
+AK041430	intergenic	1775	Genbank	-					
+uc009ogl.1	intergenic	317	UCSC_knowngene	-					
+ENSMUST00000181859	exonic antisense	905	Ensembl	+	lncRNA	24	70	CDIPT-AS1	1.00E-19
+AK131792	intergenic	392	Genbank	-					
+ENSMUST00000137191	exonic sense	7020	Ensembl	+	mRNA	69	85	WHSC1	0
+AK045655	intergenic	1286	Genbank	-					
+ENSMUST00000179040	intergenic	1530	Ensembl	+	mRNA	99	77	KIFC1	0
+NR_045712	intergenic	1479	RefSeq	-					
+uc012dpi.1	exonic sense	711	UCSC_knowngene	-					
+AK034630	intergenic	1962	Genbank	-					
+AK018848	intronic antisense	219	Genbank	-					
+ENSMUST00000168738	intergenic	794	Ensembl	-					
+ENSMUST00000146494	exonic sense	1771	Ensembl	+	mRNA	72	82	CYP2C19	0
+ENSMUST00000170645	intronic antisense	260	Ensembl	-					
+AK030063	exonic antisense	3503	Genbank	-					
+ENSMUST00000179723	intergenic	1150	Ensembl	-					
+ENSMUST00000170074	intergenic	277	Ensembl	-					
+ENSMUST00000125096	intergenic	1131	Ensembl	+	mRNA	93	77	SDCCAG3	0
+AK017123	intergenic	851	Genbank	-					
+ENSMUST00000148357	exonic antisense	937	Ensembl	+	mRNA	52	73	MTUS1	7.00E-62
+uc009rfv.1	intergenic	788	UCSC_knowngene	-					
+AK138930	intergenic	1187	Genbank	-					
+ENSMUST00000174816	intergenic	1535	Ensembl	-					
+AK142996	bidirectional	1160	Genbank	-					
+NR_045919	intronic antisense	445	RefSeq	-					
+ENSMUST00000130898	exonic antisense	1535	Ensembl	-					
+NR_045507	intergenic	1123	RefSeq	-					
+uc008dfa.1	exonic antisense	939	UCSC_knowngene	+	mRNA	21	82	NUDT12	4.00E-46
+NR_028259	intergenic	3061	RefSeq	-					
+ENSMUST00000135850	exonic sense	2047	Ensembl	-					
+ENSMUST00000169417	intergenic	677	Ensembl	-					
+uc008prd.1	bidirectional	981	UCSC_knowngene	-					
+NR_045479	intronic antisense	423	RefSeq	-					
+uc012bvq.2	exonic sense	681	UCSC_knowngene	+	mRNA	82	80	DAPL1	2.00E-55
+ENSMUST00000181438	exonic antisense	2715	Ensembl	+	mRNA	13	77	CYP2U1	9.00E-78
+uc008jiw.1	exonic antisense	315	UCSC_knowngene	+	mRNA	48	72	PPP6C	2.00E-23
+ENSMUST00000181358	exonic antisense	1291	Ensembl	+	mRNA	33	87	VCPIP1	1.00E-159
+NR_028021	exonic antisense	1777	RefSeq	+	mRNA	9	94	PPIF	6.00E-36
+ENSMUST00000162109	exonic sense	3254	Ensembl	+	ncRNA	94	82	PPP4R1	0
+ENSMUST00000150973	intronic antisense	2984	Ensembl	-					
+ENSMUST00000123221	exonic sense	1507	Ensembl	+	mRNA	61	76	STPG1	0
+TCONS_00010996	intergenic	815	Alexander et al 2013	-					
+ENSMUST00000129617	intronic antisense	644	Ensembl	-					
+ENSMUST00000117228	intergenic	1033	Ensembl	+	mRNA	93	75	MAGEB3	1.00E-174
+ENSMUST00000138535	exonic antisense	1878	Ensembl	+	mRNA	5	93	PARD3B	4.00E-35
+NR_033549	intergenic	3414	RefSeq	-					
+ENSMUST00000138430	exonic antisense	785	Ensembl	+	mRNA	68	95	HIPK1	4.00E-167
+AK155259	intergenic	1265	Genbank	-					
+ENSMUST00000044347	intergenic	381	Ensembl	-					
+NR_004448	intergenic	1433	RefSeq	+	mRNA	59	80	GAPDH	0
+NR_001584	intergenic	1121	RefSeq	-					
+AK006657	bidirectional	1105	Genbank	-					
+TCONS_00009650	bidirectional	547	Alexander et al 2013	-					
+uc029xqy.1	intergenic	543	UCSC_knowngene	-					
+ENSMUST00000149861	exonic sense	448	Ensembl	+	mRNA	91	81	C15orf43	5.00E-96
+ENSMUST00000126189	intergenic	796	Ensembl	-					
+ENSMUST00000144765	intergenic	536	Ensembl	-					
+NR_102372	bidirectional	655	RefSeq	-					
+NR_045806	intergenic	1185	RefSeq	-					
+ENSMUST00000144539	intergenic	573	Ensembl	-					
+NR_046167	bidirectional	508	RefSeq	-					
+ENSMUST00000145579	intronic sense	364	Ensembl	-					
+ENSMUST00000111864	intergenic	462	Ensembl	-					
+ENSMUST00000138341	intronic antisense	371	Ensembl	-					
+AK007136	intergenic	359	Genbank	-					
+TCONS_00000121	intergenic	2066	Alexander et al 2013	-					
+ENSMUST00000156275	intergenic	1533	Ensembl	-					
+ENSMUST00000140417	intergenic	3203	Ensembl	+	mRNA	27	78	IDO2	0
+ENSMUST00000150534	exonic sense	778	Ensembl	+	mRNA	64	81	DECR2	2.00E-96
+uc029xka.1	exonic sense	1253	UCSC_knowngene	-					
+AK005595	intronic antisense	375	Genbank	-					
+ENSMUST00000174884	intronic sense	263	Ensembl	-					
+ENSMUST00000130083	intergenic	712	Ensembl	-					
+ENSMUST00000173024	intergenic	1459	Ensembl	-					
+NR_040597	intergenic	848	RefSeq	-					
+uc007vth.1	exonic sense	2368	UCSC_knowngene	+	ncRNA	41	72	ATAD2B	1.00E-147
+ENSMUST00000152627	intergenic	439	Ensembl	-					
+ENSMUST00000161579	exonic antisense	471	Ensembl	+	mRNA	17	94	SHPRH	2.00E-25
+ENSMUST00000177387	intronic sense	551	Ensembl	+	mRNA	100	79	HMGB2	6.00E-127
+NR_040632	intergenic	485	RefSeq	-					
+NR_040610	exonic antisense	1174	RefSeq	-					
+ENSMUST00000136364	intergenic	677	Ensembl	-					
+ENSMUST00000122832	intergenic	2338	Ensembl	+	ncRNA	51	71	C9orf84	3.00E-174
+AK030078	intergenic	4609	Genbank	-					
+NR_046291	exonic sense	2466	RefSeq	+	ncRNA	15	67	CENPJ	2.00E-23
+ENSMUST00000069188	exonic sense	926	Ensembl	+	mRNA	90	90	KANSL1	0
+AK021082	bidirectional	780	Genbank	-					
+TCONS_00032345	intergenic	1929	Alexander et al 2013	+	lncRNA	14	66	LINC00987	2.00E-18
+uc008zrv.1	intergenic	310	UCSC_knowngene	-					
+ENSMUST00000131961	intergenic	374	Ensembl	-					
+uc009emh.1	exonic sense	1706	UCSC_knowngene	-					
+ENSMUST00000177130	intronic antisense	2827	Ensembl	+	mRNA	17	81	EVI5L	7.00E-73
+AK028019	bidirectional	983	Genbank	-					
+AK037140	intronic antisense	1455	Genbank	-					
+ENSMUST00000181491	intergenic	678	Ensembl	-					
+AK157571	intergenic	2988	Genbank	-					
+ENSMUST00000154176	exonic sense	602	Ensembl	+	mRNA	53	86	TVP23B	4.00E-104
+uc008urz.1	intergenic	306	UCSC_knowngene	-					
+ENSMUST00000155906	exonic antisense	1722	Ensembl	-					
+ENSMUST00000146751	bidirectional	2558	Ensembl	-					
+uc012duq.1	exonic sense	6906	UCSC_knowngene	-					
+uc008dwq.2	bidirectional	1004	UCSC_knowngene	+	mRNA	65	78	NDC80	2.00E-100
+NR_040401	intergenic	1447	RefSeq	+	mRNA	16	78	GSTA4	3.00E-21
+ENSMUST00000147793	exonic sense	708	Ensembl	+	ncRNA	71	82	ENKUR	1.00E-141
+ENSMUST00000121232	intergenic	1527	Ensembl	+	mRNA	99	80	CDC6	0
+ENSMUST00000142286	intronic antisense	2541	Ensembl	-					
+uc008ybx.1	intergenic	308	UCSC_knowngene	-					
+ENSMUST00000135768	exonic sense	2144	Ensembl	+	mRNA	74	86	PUS3	0
+NR_045792	intergenic	1366	RefSeq	-					
+ENSMUST00000131311	exonic sense	660	Ensembl	+	mRNA	49	79	TAF7L	2.00E-57
+TCONS_00022645	intronic antisense	443	Alexander et al 2013	-					
+ENSMUST00000145080	exonic sense	1430	Ensembl	+	mRNA	76	73	CFAP97	3.00E-149
+NR_033529	intergenic	3938	RefSeq	+	mRNA	99	78	RNF19A	0
+ENSMUST00000117804	intergenic	868	Ensembl	+	mRNA	100	82	OSER1	0
+NR_015482	intergenic	1006	RefSeq	-					
+uc007cvd.1	intergenic	382	UCSC_knowngene	-					
+ENSMUST00000163410	intergenic	516	Ensembl	-					
+ENSMUST00000170881	intergenic	459	Ensembl	-					
+ENSMUST00000176396	exonic antisense	857	Ensembl	+	mRNA	13	84	CORIN	2.00E-25
+mouselincRNA0843-	intergenic	18152	lincRNA	-					
+AK144686	intergenic	2035	Genbank	-					
+TCONS_00032301	intergenic	751	Alexander et al 2013	-					
+uc012fkp.1	exonic antisense	954	UCSC_knowngene	-					
+AK080637	bidirectional	567	Genbank	-					
+ENSMUST00000128652	intergenic	698	Ensembl	-					
+NR_040737	intergenic	865	RefSeq	-					
+AK076610	bidirectional	2500	Genbank	-					
+uc011xas.2	intergenic	636	UCSC_knowngene	-					
+ENSMUST00000129215	exonic antisense	533	Ensembl	-					
+AK034730	intergenic	1548	Genbank	-					
+uc011xzi.1	exonic sense	247	UCSC_knowngene	+	mRNA	57	72	RPA1	4.00E-08
+AK015670	exonic antisense	1066	Genbank	+	mRNA	15	84	SCAMP1	7.00E-42
+mouselincRNA1188+	intergenic	17496	lincRNA	-					
+ENSMUST00000181157	intergenic	676	Ensembl	-					
+uc007epv.1	intergenic	396	UCSC_knowngene	-					
+NR_040451	intergenic	1298	RefSeq	-					
+uc008ski.2	intergenic	270	UCSC_knowngene	-					
+AK138571	intergenic	2699	Genbank	-					
+NR_045381	exonic antisense	1616	RefSeq	-					
+ENSMUST00000144420	intronic antisense	857	Ensembl	-					
+AK133261	intergenic	2582	Genbank	-					
+uc008xke.1	intergenic	1106	UCSC_knowngene	-					
+AK133058	intergenic	1284	Genbank	-					
+NR_001582	intergenic	1432	RefSeq	-					
+ENSMUST00000143432	exonic sense	5138	Ensembl	+	mRNA	98	82	COL16A1	0
+uc008rjh.1	exonic antisense	1510	UCSC_knowngene	-					
+ENSMUST00000135544	intronic antisense	817	Ensembl	-					
+uc007njj.1	intergenic	606	UCSC_knowngene	-					
+AK015278	intergenic	1236	Genbank	-					
+ENSMUST00000117244	exonic sense	2025	Ensembl	+	ncRNA	92	84	METAP2	0
+NR_040299	intergenic	3062	RefSeq	+	lncRNA	8	69	LINC00865	4.00E-19
+ENSMUST00000180944	intergenic	676	Ensembl	-					
+NR_038173	exonic antisense	1704	RefSeq	+	mRNA	3	88	MAP4K5	2.00E-10
+ENSMUST00000156239	intergenic	1017	Ensembl	-					
+ENSMUST00000162591	exonic sense	5249	Ensembl	+	mRNA	13	86	C1orf146	1.00E-47
+ENSMUST00000161996	exonic sense	1714	Ensembl	+	mRNA	87	86	SRGAP1	0
+ENSMUST00000160234	exonic sense	531	Ensembl	+	mRNA	85	93	KCNC1	0
+ENSMUST00000142208	exonic sense	1108	Ensembl	+	mRNA	18	75	C6orf10	3.00E-29
+AK030229	intergenic	2235	Genbank	-					
+NR_045811	intergenic	1185	RefSeq	-					
+NR_040561	intergenic	774	RefSeq	-					
+ENSMUST00000126779	intergenic	457	Ensembl	-					
+uc011wlw.1	exonic sense	2090	UCSC_knowngene	-					
+uc008dwo.2	bidirectional	786	UCSC_knowngene	+	mRNA	70	75	NDC80	1.00E-57
+ENSMUST00000153289	exonic sense	417	Ensembl	+	mRNA	81	81	MSRB2	4.00E-85
+AK140968	intergenic	1529	Genbank	-					
+TCONS_00008355	intergenic	4997	Alexander et al 2013	+	mRNA	17	70	ZNF709	1.00E-89
+uc007mat.1	exonic antisense	861	UCSC_knowngene	+	lncRNA	35	83	LOC101928021	3.00E-79
+AK006939	intergenic	581	Genbank	+	mRNA	38	78	ZFP28	2.00E-43
+ENSMUST00000150536	intronic antisense	920	Ensembl	-					
+ENSMUST00000154367	intergenic	479	Ensembl	-					
+ENSMUST00000132108	intergenic	354	Ensembl	-					
+uc029xtq.1	intergenic	373	UCSC_knowngene	-					
+AK028463	intronic antisense	2076	Genbank	-					
+uc007qzr.1	intergenic	1094	UCSC_knowngene	-					
+uc007okw.1	exonic sense	1544	UCSC_knowngene	+	mRNA	35	81	STON2	5.00E-146
+uc011yxh.1	exonic sense	1393	UCSC_knowngene	-					
+ENSMUST00000138195	intergenic	491	Ensembl	-					
+AK040269	intronic antisense	1104	Genbank	-					
+AK033021	bidirectional	462	Genbank	-					
+AK018645	intergenic	832	Genbank	-					
+ENSMUST00000174376	exonic sense	501	Ensembl	+	mRNA	74	94	ZNRF1	4.00E-122
+NR_028593	exonic antisense	1489	RefSeq	+	ncRNA	6	81	A2MP1	2.00E-17
+ENSMUST00000181209	intronic sense	2380	Ensembl	+	mRNA	2	89	MAT2A	8.00E-12
+AK015406	intergenic	1759	Genbank	-					
+uc007unn.1	exonic sense	315	UCSC_knowngene	+	mRNA	100	83	SORBS3	9.00E-54
+NR_045280	intergenic	731	RefSeq	-					
+BY055800	exonic sense	318	lincRNA	-					
+uc029tpt.1	exonic sense	2068	UCSC_knowngene	+	ncRNA	33	81	C18orf54	4.00E-179
+TCONS_00036207	intergenic	397	Alexander et al 2013	-					
+ENSMUST00000126989	exonic sense	1980	Ensembl	+	mRNA	19	80	HSPB6	1.00E-91
+ENSMUST00000177300	intergenic	461	Ensembl	-					
+ENSMUST00000026048	exonic sense	2303	Ensembl	+	mRNA	77	76	CFAP43	0
+ENSMUST00000162080	exonic sense	1716	Ensembl	+	ncRNA	83	82	PKD1L2	0
+NR_045558	exonic sense	2472	RefSeq	+	mRNA	46	86	CCDC77	1.00E-138
+ENSMUST00000138696	exonic sense	719	Ensembl	+	mRNA	83	90	ATPAF2	0
+NR_045319	intergenic	391	RefSeq	-					
+ENSMUST00000039375	intergenic	354	Ensembl	+	mRNA	95	74	DPPA5	1.00E-53
+uc009dci.1	intronic antisense	829	UCSC_knowngene	-					
+NR_045807	exonic antisense	2735	RefSeq	+	mRNA	5	80	ACOX3	5.00E-24
+ENSMUST00000120019	intergenic	564	Ensembl	-					
+uc007wyg.1	exonic sense	1960	UCSC_knowngene	+	mRNA	33	88	CCDC134	2.00E-139
+AK084061	bidirectional	890	Genbank	-					
+TCONS_00008083	intergenic	434	Alexander et al 2013	+	lncRNA	32	79	ZNF625-ZNF20	2.00E-23
+AK029687	bidirectional	2800	Genbank	-					
+ENSMUST00000119988	intergenic	422	Ensembl	-					
+AK017001	intronic antisense	1266	Genbank	-					
+ENSMUST00000177721	intergenic	1377	Ensembl	+	mRNA	99	86	SNW1	0
+ENSMUST00000162644	exonic sense	355	Ensembl	-					
+BU939086	intergenic	871	lincRNA	-					
+ENSMUST00000135005	exonic sense	1839	Ensembl	+	mRNA	76	78	ARID3A	0
+ENSMUST00000181696	exonic antisense	1115	Ensembl	+	mRNA	12	90	COPG1	3.00E-42
+uc008vem.1	exonic antisense	1729	UCSC_knowngene	-					
+TCONS_00009639	intergenic	559	Alexander et al 2013	-					
+AK029883	exonic antisense	3016	Genbank	+	mRNA	15	93	ODF2	9.00E-66
+AK158001	exonic antisense	2780	Genbank	-					
+AK015180	exonic antisense	1511	Genbank	-					
+AK015296	intergenic	1999	Genbank	-					
+NR_033213	intronic antisense	1132	RefSeq	-					
+TCONS_00034303	intergenic	7338	Alexander et al 2013	-					
+AK081851	intergenic	2556	Genbank	-					
+ENSMUST00000149931	exonic sense	989	Ensembl	+	ncRNA	77	73	PLCZ1	4.00E-123
+NR_040608	exonic antisense	2258	RefSeq	+	mRNA	10	86	GANC	2.00E-29
+ENSMUST00000123807	exonic sense	2349	Ensembl	+	ncRNA	82	83	ASTE1	0
+NR_045868	intergenic	2087	RefSeq	-					
+ENSMUST00000144859	exonic sense	825	Ensembl	+	mRNA	87	82	SEP15	0
+ENSMUST00000169144	intergenic	481	Ensembl	-					
+ENSMUST00000153228	intergenic	263	Ensembl	-					
+ENSMUST00000173637	intergenic	764	Ensembl	-					
+uc009aqb.1	intergenic	299	UCSC_knowngene	-					
+AK082232	intergenic	2222	Genbank	-					
+uc008cph.1	intronic antisense	545	UCSC_knowngene	-					
+AK133101	intergenic	1518	Genbank	-					
+AK006046	intergenic	255	Genbank	-					
+ENSMUST00000146994	intergenic	204	Ensembl	-					
+ENSMUST00000149500	intergenic	1155	Ensembl	-					
+uc008dwn.2	bidirectional	811	UCSC_knowngene	+	ncRNA	30	77	RPS2P32	1.00E-40
+ENSMUST00000154310	intergenic	948	Ensembl	+	mRNA	53	67	MAGEA10	8.00E-37
+AK039307	intergenic	1812	Genbank	-					
+ENSMUST00000136979	exonic sense	641	Ensembl	+	ncRNA	17	95	SHANK2	1.00E-40
+ENSMUST00000155905	exonic sense	2547	Ensembl	+	mRNA	100	86	TEX10	0
+NR_040703	exonic antisense	1075	RefSeq	+	mRNA	10	82	POLN	2.00E-23
+AK142779	intergenic	2387	Genbank	-					
+ENSMUST00000181387	exonic antisense	1933	Ensembl	+	mRNA	32	86	BIRC6	7.00E-107
+uc008qis.1	exonic antisense	956	UCSC_knowngene	-					
+ENSMUST00000107638	exonic sense	3326	Ensembl	+	mRNA	79	72	FKTN	0
+ENSMUST00000141921	exonic sense	850	Ensembl	+	mRNA	77	90	TTBK2	8.00E-113
+NR_015533	intergenic	2004	RefSeq	-					
+ENSMUST00000134615	exonic antisense	420	Ensembl	-					
+ENSMUST00000115828	exonic sense	3041	Ensembl	+	mRNA	100	87	CLEC16A	0
+AK082221	intronic antisense	2494	Genbank	-					
+AK054165	intergenic	925	Genbank	-					
+ENSMUST00000179925	intergenic	969	Ensembl	-					
+ENSMUST00000136206	intronic antisense	754	Ensembl	-					
+ENSMUST00000125199	exonic sense	1543	Ensembl	+	mRNA	66	74	PTCHD3	7.00E-171
+TCONS_00025315	intergenic	5312	Alexander et al 2013	+	mRNA	1	87	PPP2R3B	2.00E-12
+ENSMUST00000121170	exonic sense	647	Ensembl	+	mRNA	17	92	TES	7.00E-38
+ENSMUST00000132154	exonic antisense	1608	Ensembl	-					
+ENSMUST00000180586	bidirectional	2239	Ensembl	-					
+AK148417	exonic antisense	645	Genbank	-					
+ENSMUST00000130985	intergenic	1447	Ensembl	+	mRNA	99	80	PWP1	0
+TCONS_00034301	intergenic	7342	Alexander et al 2013	-					
+ENSMUST00000137964	intergenic	413	Ensembl	-					
+ENSMUST00000167151	intergenic	502	Ensembl	-					
+ENSMUST00000142955	exonic sense	2183	Ensembl	+	mRNA	91	83	URB1	0
+uc008bbh.1	intergenic	300	UCSC_knowngene	-					
+NR_029437	bidirectional	904	RefSeq	-					
+ENSMUST00000133698	exonic antisense	659	Ensembl	-					
+AK132892	intergenic	285	Genbank	-					
+NR_040727	bidirectional	445	RefSeq	-					
+AK017101	exonic antisense	1476	Genbank	+	mRNA	11	90	TOMM34	3.00E-58
+TCONS_00002509	intergenic	1022	Alexander et al 2013	+	mRNA	7	85	SLC16A7	3.00E-16
+TCONS_00013662	intergenic	2053	Alexander et al 2013	-					
+ENSMUST00000137129	exonic sense	2391	Ensembl	-					
+ENSMUST00000140429	exonic sense	570	Ensembl	+	mRNA	83	97	LSM12	2.00E-120
+NR_046195	intronic antisense	537	RefSeq	-					
+AK030060	intergenic	3122	Genbank	-					
+AK017089	intergenic	1437	Genbank	-					
+ENSMUST00000144890	exonic sense	2163	Ensembl	+	ncRNA	65	87	DDX49	0
+AK016579	bidirectional	3097	Genbank	+	mRNA	20	69	KLHL32	8.00E-60
+ENSMUST00000146663	intergenic	593	Ensembl	-					
+TCONS_00018041	intergenic	1859	Alexander et al 2013	-					
+TCONS_00025287	intergenic	770	Alexander et al 2013	-					
+ENSMUST00000119930	intronic antisense	345	Ensembl	-					
+ENSMUST00000160283	exonic sense	1325	Ensembl	-					
+TCONS_00012172	intergenic	208	Alexander et al 2013	-					
+BU515331	intergenic	1236	lincRNA	+	mRNA	26	72	TRIM71	2.00E-39
+ENSMUST00000128681	intergenic	575	Ensembl	-					
+TCONS_00008091	intergenic	1023	Alexander et al 2013	-					
+uc008thl.1	intergenic	1729	UCSC_knowngene	-					
+AK132841	intergenic	1131	Genbank	+	mRNA	7	86	PES1	2.00E-17
+uc008dln.1	exonic antisense	2387	UCSC_knowngene	+	mRNA	3	84	DLGAP1	2.00E-18
+AK083486	intergenic	3806	Genbank	-					
+NR_045440	bidirectional	769	RefSeq	-					
+ENSMUST00000177682	intronic antisense	437	Ensembl	-					
+ENSMUST00000119994	intronic antisense	1072	Ensembl	+	mRNA	100	82	GTF2A1	0
+uc008rua.1	exonic sense	2251	UCSC_knowngene	-					
+ENSMUST00000154128	intronic antisense	244	Ensembl	-					
+ENSMUST00000139147	exonic sense	4571	Ensembl	+	mRNA	23	88	LRRC41	0
+AK133094	intergenic	1849	Genbank	-					
+ENSMUST00000153524	exonic sense	582	Ensembl	+	mRNA	63	84	CALM1	8.00E-113
+ENSMUST00000140980	intergenic	1512	Ensembl	-					
+NR_038005	intergenic	3387	RefSeq	-					
+ENSMUST00000181770	intronic antisense	1737	Ensembl	-					
+uc008riv.1	exonic sense	1078	UCSC_knowngene	-					
+AK006097	intergenic	1239	Genbank	-					
+ENSMUST00000162458	intronic antisense	623	Ensembl	+	mRNA	88	72	ADNP2	2.00E-77
+uc009kuc.1	intergenic	1155	UCSC_knowngene	-					
+AK158500	bidirectional	1089	Genbank	-					
+NR_027978	bidirectional	1262	RefSeq	-					
+ENSMUST00000117395	intergenic	624	Ensembl	+	mRNA	99	82	USP12	6.00E-172
+NR_040480	intergenic	998	RefSeq	-					
+ENSMUST00000125309	intergenic	724	Ensembl	-					
+ENSMUST00000132397	exonic sense	4807	Ensembl	+	mRNA	61	86	USP49	0
+AK132689	intergenic	2349	Genbank	-					
+AK144595	intergenic	1623	Genbank	-					
+AK076936	intergenic	350	Genbank	-					
+ENSMUST00000167433	exonic sense	344	Ensembl	-					
+TCONS_00002446	intergenic	9832	Alexander et al 2013	-					
+uc029xtw.1	intergenic	455	UCSC_knowngene	-					
+uc029shy.1	intergenic	1589	UCSC_knowngene	-					
+ENSMUST00000139704	intergenic	670	Ensembl	-					
+ENSMUST00000159359	exonic sense	1128	Ensembl	+	mRNA	70	74	GPR39	5.00E-128
+ENSMUST00000153429	intergenic	1940	Ensembl	-					
+ENSMUST00000142874	exonic sense	3778	Ensembl	+	mRNA	75	76	DNHD1	0
+ENSMUST00000161791	exonic sense	4258	Ensembl	+	mRNA	20	80	TRMT10A	0
+ENSMUST00000133836	exonic sense	2378	Ensembl	+	mRNA	14	86	CCDC86	4.00E-110
+ENSMUST00000130502	exonic sense	2071	Ensembl	+	ncRNA	72	72	MPHOSPH9	4.00E-130
+ENSMUST00000141180	exonic sense	2400	Ensembl	+	mRNA	42	89	CUL5	0
+AK015097	intronic antisense	1060	Genbank	-					
+ENSMUST00000175713	intergenic	407	Ensembl	+	mRNA	53	73	EFCAB13	1.00E-27
+ENSMUST00000180937	bidirectional	794	Ensembl	-					
+ENSMUST00000180281	intergenic	1150	Ensembl	-					
+AK015266	intergenic	1158	Genbank	-					
+ENSMUST00000162770	exonic antisense	1117	Ensembl	-					
+TCONS_00029118	intergenic	627	Alexander et al 2013	-					
+ENSMUST00000147951	intergenic	600	Ensembl	-					
+ENSMUST00000165663	exonic sense	609	Ensembl	+	mRNA	50	85	CENPF	1.00E-46
+ENSMUST00000020689	exonic sense	1915	Ensembl	+	mRNA	89	75	HORMAD2	0
+uc008fnb.2	exonic sense	4678	UCSC_knowngene	+	ncRNA	16	76	LOC643201	2.00E-49
+ENSMUST00000143738	exonic antisense	1083	Ensembl	+	mRNA	99	78	GNAS	0
+AK040242	intergenic	625	Genbank	-					
+ENSMUST00000145224	intergenic	2249	Ensembl	+	mRNA	71	79	SLC26A8	0
+NR_033493	exonic antisense	1392	RefSeq	+	mRNA	5	93	TNK2	3.00E-22
+mouselincRNA1563+	intergenic	26609	lincRNA	+	mRNA	0	87	LEO1	1.00E-21
+ENSMUST00000137923	exonic antisense	2550	Ensembl	-					
+ENSMUST00000172013	exonic sense	1309	Ensembl	+	mRNA	69	86	UFD1L	0
+uc012fpa.2	exonic sense	1966	UCSC_knowngene	-					
+ENSMUST00000130677	intergenic	559	Ensembl	+	mRNA	15	83	AGAP1	2.00E-14
+NR_028141	exonic sense	2734	RefSeq	+	mRNA	3	77	CASR	2.00E-11
+ENSMUST00000141249	exonic sense	1752	Ensembl	+	mRNA	66	75	RGSL1	0
+TCONS_00002361	bidirectional	472	Alexander et al 2013	-					
+ENSMUST00000172952	intergenic	589	Ensembl	-					
+uc029xtg.1	intergenic	772	UCSC_knowngene	-					
+ENSMUST00000148769	exonic sense	2769	Ensembl	+	mRNA	85	82	SCLT1	0
+AK132686	intergenic	3476	Genbank	-					
+ENSMUST00000122926	exonic antisense	2447	Ensembl	+	mRNA	37	81	ZSCAN26	0
+ENSMUST00000151884	intronic sense	552	Ensembl	-					
+uc008yks.2	exonic sense	2198	UCSC_knowngene	-					
+AK133422	intergenic	2259	Genbank	-					
+ENSMUST00000154037	intergenic	743	Ensembl	-					
+TCONS_00034037	intergenic	1254	Alexander et al 2013	-					
+ENSMUST00000161975	intronic antisense	487	Ensembl	-					
+ENSMUST00000135029	exonic sense	2003	Ensembl	+	mRNA	78	84	KATNAL2	0
+AK015123	intergenic	859	Genbank	-					
+TCONS_00032519	intergenic	2374	Alexander et al 2013	-					
+AK133257	exonic antisense	3339	Genbank	+	mRNA	9	83	HDGFL1	2.00E-81
+ENSMUST00000119893	intergenic	871	Ensembl	-					
+ENSMUST00000181528	intergenic	1339	Ensembl	-					
+AK080448	intergenic	821	Genbank	-					
+uc009axb.1	intergenic	1753	UCSC_knowngene	-					
+ENSMUST00000151391	intergenic	2701	Ensembl	-					
+ENSMUST00000133505	bidirectional	358	Ensembl	-					
+AK156665	intergenic	5680	Genbank	-					
+NR_046076	intergenic	538	RefSeq	-					
+uc029vys.1	intergenic	2238	UCSC_knowngene	-					
+TCONS_00008089	intergenic	885	Alexander et al 2013	-					
+AK029577	intergenic	559	Genbank	-					
+NR_045947	intergenic	884	RefSeq	-					
+NR_045348	intergenic	386	RefSeq	-					
+NR_045477	exonic antisense	1389	RefSeq	+	mRNA	5	87	PPP1R1B	8.00E-17
+AK132631	exonic antisense	1404	Genbank	+	mRNA	49	94	TBR1	0
+TCONS_00025082	intergenic	1643	Alexander et al 2013	-					
+AK029999	bidirectional	3242	Genbank	-					
+ENSMUST00000131985	intronic antisense	275	Ensembl	-					
+ENSMUST00000153719	intergenic	726	Ensembl	-					
+uc011zjn.1	exonic sense	2944	UCSC_knowngene	+	mRNA	85	71	DLGAP5	0
+ENSMUST00000149873	bidirectional	540	Ensembl	-					
+AK015443	intronic antisense	542	Genbank	-					
+AK012078	intergenic	838	Genbank	-					
+NR_046168	bidirectional	505	RefSeq	-					
+ENSMUST00000141933	exonic sense	5368	Ensembl	+	mRNA	69	79	STIL	0
+TCONS_00032450	intergenic	200	Alexander et al 2013	-					
+ENSMUST00000124365	exonic sense	241	Ensembl	+	mRNA	31	97	TAF12	5.00E-27
+uc007bss.1	intergenic	1634	UCSC_knowngene	-					
+ENSMUST00000057889	exonic antisense	684	Ensembl	+	mRNA	63	80	PRDM8	0
+AK015390	intergenic	1452	Genbank	+	mRNA	11	70	CXADR	1.00E-12
+BU961149	intergenic	770	lincRNA	-					
+ENSMUST00000120812	intergenic	318	Ensembl	+	ncRNA	90	81	KIAA0101	2.00E-68
+uc008ezf.2	bidirectional	672	UCSC_knowngene	-					
+TCONS_00015160	intergenic	2561	Alexander et al 2013	-					
+AK030179	intronic antisense	2354	Genbank	-					
+NR_040510	intergenic	1644	RefSeq	-					
+ENSMUST00000118575	exonic antisense	1086	Ensembl	+	mRNA	7	91	CHKA	5.00E-20
+ENSMUST00000148082	exonic antisense	1182	Ensembl	+	mRNA	29	66	CUX1	2.00E-16
+TCONS_00006932	intergenic	389	Alexander et al 2013	-					
+AK031474	exonic antisense	3100	Genbank	+	mRNA	3	75	C19orf38	3.00E-08
+uc007xax.1	intergenic	1260	UCSC_knowngene	-					
+ENSMUST00000145809	exonic sense	380	Ensembl	+	mRNA	64	82	PARVG	3.00E-42
+uc007otd.1	exonic sense	4914	UCSC_knowngene	+	mRNA	90	84	CCDC88C	0
+ENSMUST00000172692	intergenic	1118	Ensembl	+	mRNA	100	84	PPM1A	0
+AK038493	intergenic	2988	Genbank	-					
+AK015565	bidirectional	1773	Genbank	-					
+ENSMUST00000146208	intergenic	797	Ensembl	-					
+TCONS_00007965	intergenic	1124	Alexander et al 2013	-					
+AK016038	intronic antisense	2128	Genbank	-					
+ENSMUST00000144718	intergenic	1721	Ensembl	-					
+ENSMUST00000130895	intergenic	732	Ensembl	-					
+AK133247	intronic antisense	4367	Genbank	-					
+ENSMUST00000117376	intergenic	798	Ensembl	+	mRNA	98	79	PPP1CC	2.00E-126
+ENSMUST00000153022	intergenic	928	Ensembl	-					
+uc029xto.1	intergenic	708	UCSC_knowngene	-					
+ENSMUST00000138406	bidirectional	3308	Ensembl	-					
+ENSMUST00000168525	intergenic	495	Ensembl	-					
+AI255174	intergenic	461	lincRNA	-					
+ENSMUST00000152439	intergenic	656	Ensembl	-					
+DQ140164	intergenic	201	Genbank	+	mRNA	61	77	SLC16A7	8.00E-16
